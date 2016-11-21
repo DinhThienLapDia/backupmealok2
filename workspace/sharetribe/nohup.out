@@ -1,0 +1,1002 @@
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/configuration/default_source.rb:675: warning: key :disable_mongo is duplicated and overwritten on line 987
+**WARNING** ReactOnRails: ReactOnRails gem and node package MAJOR versions do not match
+                     gem: 6.0.5
+            node package: 5.2.0
+Ensure the installed MAJOR version of the gem is the same as the MAJOR version of 
+your installed node package.
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Person> at /home/namnp_hienle/workspace/sharetribe/app/models/person.rb:160)
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/vm/mri_vm.rb:32: warning: GC.stat keys were changed from Ruby 2.1. In this case, you refer to obsolete `total_allocated_object' (new key is `total_allocated_objects'). Please check <https://bugs.ruby-lang.org/issues/9924> for more information.
+[Worker(host:mail pid:385)] Starting job worker
+2016-08-29T23:14:58+0700: [Worker(host:mail pid:385)] Starting job worker
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=140) RUNNING
+2016-08-30T05:34:42+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=140) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:153)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:176)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:196)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:212)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:228)
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=140) COMPLETED after 0.1602
+2016-08-30T05:34:43+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=140) COMPLETED after 0.1602
+[Worker(host:mail pid:385)] 1 jobs processed at 1.0171 j/s, 0 failed
+2016-08-30T05:34:43+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.0171 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=141) RUNNING
+2016-08-30T05:38:28+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=141) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=141) COMPLETED after 0.0449
+2016-08-30T05:38:28+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=141) COMPLETED after 0.0449
+[Worker(host:mail pid:385)] 1 jobs processed at 3.6996 j/s, 0 failed
+2016-08-30T05:38:28+0700: [Worker(host:mail pid:385)] 1 jobs processed at 3.6996 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=142) RUNNING
+2016-08-30T05:39:58+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=142) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=142) COMPLETED after 0.4499
+2016-08-30T05:39:59+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=142) COMPLETED after 0.4499
+[Worker(host:mail pid:385)] 1 jobs processed at 1.9085 j/s, 0 failed
+2016-08-30T05:39:59+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.9085 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=143) RUNNING
+2016-08-30T05:40:04+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=143) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=143) COMPLETED after 0.0735
+2016-08-30T05:40:04+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=143) COMPLETED after 0.0735
+[Worker(host:mail pid:385)] 1 jobs processed at 8.6438 j/s, 0 failed
+2016-08-30T05:40:04+0700: [Worker(host:mail pid:385)] 1 jobs processed at 8.6438 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=144) RUNNING
+2016-08-30T05:42:30+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=144) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=144) COMPLETED after 1.8045
+2016-08-30T05:42:31+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=144) COMPLETED after 1.8045
+[Worker(host:mail pid:385)] 1 jobs processed at 0.3800 j/s, 0 failed
+2016-08-30T05:42:31+0700: [Worker(host:mail pid:385)] 1 jobs processed at 0.3800 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=145) RUNNING
+2016-08-30T05:42:36+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=145) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=145) COMPLETED after 0.0220
+2016-08-30T05:42:36+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=145) COMPLETED after 0.0220
+[Worker(host:mail pid:385)] 1 jobs processed at 31.4993 j/s, 0 failed
+2016-08-30T05:42:36+0700: [Worker(host:mail pid:385)] 1 jobs processed at 31.4993 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=146) RUNNING
+2016-08-30T05:42:42+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=146) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=146) COMPLETED after 0.0393
+2016-08-30T05:42:42+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=146) COMPLETED after 0.0393
+[Worker(host:mail pid:385)] 1 jobs processed at 11.5223 j/s, 0 failed
+2016-08-30T05:42:42+0700: [Worker(host:mail pid:385)] 1 jobs processed at 11.5223 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=147) RUNNING
+2016-08-30T05:42:52+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=147) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=147) COMPLETED after 0.0400
+2016-08-30T05:42:52+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=147) COMPLETED after 0.0400
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=148) RUNNING
+2016-08-30T05:42:52+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=148) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=148) COMPLETED after 0.0357
+2016-08-30T05:42:52+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=148) COMPLETED after 0.0357
+[Worker(host:mail pid:385)] 2 jobs processed at 17.8022 j/s, 0 failed
+2016-08-30T05:42:52+0700: [Worker(host:mail pid:385)] 2 jobs processed at 17.8022 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=149) RUNNING
+2016-08-30T05:46:07+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=149) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=149) COMPLETED after 0.3076
+2016-08-30T05:46:07+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=149) COMPLETED after 0.3076
+[Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=150) RUNNING
+2016-08-30T05:46:08+0700: [Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=150) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper:0x000000082df610 @job_data={\"job_class\"=\u003e\"DelayedPaperclip::Jobs::ActiveJob\", \"job_id\"=\u003e\"a61f875d-249a-4658-a573-5aeb13ba1267\", \"queue_name\"=\u003e\"paperclip\", \"arguments\"=\u003e[\"ListingImage\", 7, \"image\"], \"locale\"=\u003e:vi}\u003e"}}
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Performing DelayedPaperclip::Jobs::ActiveJob from DelayedJob(paperclip) with arguments: "ListingImage", 7, "image"
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:ListingImage> at /home/namnp_hienle/workspace/sharetribe/app/models/listing_image.rb:34)
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: file -b --mime '/tmp/c5abecb5c42242eeacfbe6a54193dc8120160830-385-15khu2t.jpg'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/c5abecb5c42242eeacfbe6a54193dc8120160830-385-1kdj36.jpg[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format %m '/tmp/c5abecb5c42242eeacfbe6a54193dc8120160830-385-1kdj36.jpg[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: convert '/tmp/c5abecb5c42242eeacfbe6a54193dc8120160830-385-1kdj36.jpg[0]' -auto-orient -resize "1600x1600>" '/tmp/150986f79091d025c6615d9df24227f520160830-385-2zbf7x'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format %m '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: convert '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]' -auto-orient -resize "240x" -crop "240x160+0+10" +repage '/tmp/3febff6c480eda37e3d0536afb75a8f620160830-385-xx5uzo'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format %m '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: convert '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]' -auto-orient -resize "360x" -crop "360x270+0+0" +repage '/tmp/3febff6c480eda37e3d0536afb75a8f620160830-385-d9tjdt'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format %m '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: convert '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]' -auto-orient -resize "x120" -crop "120x120+20+0" +repage '/tmp/3febff6c480eda37e3d0536afb75a8f620160830-385-1izbc5v'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format %m '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: convert '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]' -auto-orient -resize "660x" -crop "660x440+0+27" +repage '/tmp/3febff6c480eda37e3d0536afb75a8f620160830-385-1lks0qu'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: identify -format %m '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Command :: convert '/tmp/69311095418c0e9152882bbc12f4644220160830-385-76eimw[0]' -auto-orient -resize "150x" -crop "150x100+0+6" +repage '/tmp/3febff6c480eda37e3d0536afb75a8f620160830-385-1ifu5r1'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [a61f875d-249a-4658-a573-5aeb13ba1267] Performed DelayedPaperclip::Jobs::ActiveJob from DelayedJob(paperclip) in 804.95ms
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper:0x000000082df610 @job_data={\"job_class\"=\u003e\"DelayedPaperclip::Jobs::ActiveJob\", \"job_id\"=\u003e\"a61f875d-249a-4658-a573-5aeb13ba1267\", \"queue_name\"=\u003e\"paperclip\", \"arguments\"=\u003e[\"ListingImage\", 7, \"image\"], \"locale\"=\u003e:vi}\u003e"}}
+[Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=150) COMPLETED after 0.8291
+2016-08-30T05:46:09+0700: [Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=150) COMPLETED after 0.8291
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=151) RUNNING
+2016-08-30T05:46:09+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=151) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=151) COMPLETED after 0.0344
+2016-08-30T05:46:09+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=151) COMPLETED after 0.0344
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=152) RUNNING
+2016-08-30T05:46:09+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=152) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=152) COMPLETED after 0.0438
+2016-08-30T05:46:09+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=152) COMPLETED after 0.0438
+[Worker(host:mail pid:385)] 4 jobs processed at 2.0768 j/s, 0 failed
+2016-08-30T05:46:09+0700: [Worker(host:mail pid:385)] 4 jobs processed at 2.0768 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=153) RUNNING
+2016-08-30T05:46:14+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=153) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=153) COMPLETED after 0.0312
+2016-08-30T05:46:14+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=153) COMPLETED after 0.0312
+[Worker(host:mail pid:385)] 1 jobs processed at 19.9840 j/s, 0 failed
+2016-08-30T05:46:14+0700: [Worker(host:mail pid:385)] 1 jobs processed at 19.9840 j/s, 0 failed
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=157) RUNNING
+2016-08-30T05:49:19+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=157) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x000000040d2da8 @index=\"listing_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x000000040d2da8 @index=\"listing_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=157) COMPLETED after 0.9411
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=157) COMPLETED after 0.9411
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 43 in listing_core as deleted (id=158) RUNNING
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 43 in listing_core as deleted (id=158) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x000000040cc778 @index=\"listing_core\", @document_id=43\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x000000040cc778 @index=\"listing_core\", @document_id=43\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 43 in listing_core as deleted (id=158) COMPLETED after 0.1066
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 43 in listing_core as deleted (id=158) COMPLETED after 0.1066
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=159) RUNNING
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=159) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000003ec99a8 @index=\"custom_field_value_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000003ec99a8 @index=\"custom_field_value_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=159) COMPLETED after 0.1260
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=159) COMPLETED after 0.1260
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 60 in custom_field_value_core as deleted (id=160) RUNNING
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 60 in custom_field_value_core as deleted (id=160) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000003d97468 @index=\"custom_field_value_core\", @document_id=60\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000003d97468 @index=\"custom_field_value_core\", @document_id=60\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 60 in custom_field_value_core as deleted (id=160) COMPLETED after 0.0142
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 60 in custom_field_value_core as deleted (id=160) COMPLETED after 0.0142
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 66 in custom_field_value_core as deleted (id=161) RUNNING
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 66 in custom_field_value_core as deleted (id=161) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000003ba7e50 @index=\"custom_field_value_core\", @document_id=66\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000003ba7e50 @index=\"custom_field_value_core\", @document_id=66\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 66 in custom_field_value_core as deleted (id=161) COMPLETED after 0.0135
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 66 in custom_field_value_core as deleted (id=161) COMPLETED after 0.0135
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 72 in custom_field_value_core as deleted (id=162) RUNNING
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 72 in custom_field_value_core as deleted (id=162) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x000000039ea2c0 @index=\"custom_field_value_core\", @document_id=72\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x000000039ea2c0 @index=\"custom_field_value_core\", @document_id=72\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 72 in custom_field_value_core as deleted (id=162) COMPLETED after 0.0280
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 72 in custom_field_value_core as deleted (id=162) COMPLETED after 0.0280
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=154) RUNNING
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=154) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=154) COMPLETED after 0.0417
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=154) COMPLETED after 0.0417
+[Worker(host:mail pid:385)] Job ListingCreatedJob (id=155) RUNNING
+2016-08-30T05:49:20+0700: [Worker(host:mail pid:385)] Job ListingCreatedJob (id=155) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"ListingCreatedJob","args":{"listing_id":7,"community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"ListingCreatedJob","args":{"listing_id":7,"community_id":1}}}
+[Worker(host:mail pid:385)] Job ListingCreatedJob (id=155) COMPLETED after 0.4258
+2016-08-30T05:49:21+0700: [Worker(host:mail pid:385)] Job ListingCreatedJob (id=155) COMPLETED after 0.4258
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=163) RUNNING
+2016-08-30T05:49:21+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=163) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=163) COMPLETED after 0.0283
+2016-08-30T05:49:21+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=163) COMPLETED after 0.0283
+[Worker(host:mail pid:385)] 9 jobs processed at 4.8011 j/s, 0 failed
+2016-08-30T05:49:21+0700: [Worker(host:mail pid:385)] 9 jobs processed at 4.8011 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=164) RUNNING
+2016-08-30T05:49:26+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=164) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=164) COMPLETED after 0.4954
+2016-08-30T05:49:27+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=164) COMPLETED after 0.4954
+[Worker(host:mail pid:385)] 1 jobs processed at 1.4140 j/s, 0 failed
+2016-08-30T05:49:27+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.4140 j/s, 0 failed
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=165) RUNNING
+2016-08-30T05:56:22+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=165) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"ek141hiuos8N8VaW4f-VSg","community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"ek141hiuos8N8VaW4f-VSg","community_id":1}}}
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=165) COMPLETED after 0.0217
+2016-08-30T05:56:22+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=165) COMPLETED after 0.0217
+[Worker(host:mail pid:385)] 1 jobs processed at 20.7270 j/s, 0 failed
+2016-08-30T05:56:22+0700: [Worker(host:mail pid:385)] 1 jobs processed at 20.7270 j/s, 0 failed
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=166) RUNNING
+2016-08-30T05:58:52+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=166) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"ek141hiuos8N8VaW4f-VSg","community_id":1}}}
+{"tag":"action_mailer","free":"Delivering email","type":"delivering_email","structured":{"to":["oneme1w@gmail.com"],"from":["your-team@example.com"],"subject":"Welcome to MealOK .vn"}}
+
+Sent mail to oneme1w@gmail.com (70.9ms)
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"ek141hiuos8N8VaW4f-VSg","community_id":1}}}
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=166) COMPLETED after 1.5387
+2016-08-30T05:58:54+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=166) COMPLETED after 1.5387
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=167) RUNNING
+2016-08-30T05:58:54+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=167) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=167) COMPLETED after 0.0502
+2016-08-30T05:58:54+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=167) COMPLETED after 0.0502
+[Worker(host:mail pid:385)] 2 jobs processed at 1.0642 j/s, 0 failed
+2016-08-30T05:58:54+0700: [Worker(host:mail pid:385)] 2 jobs processed at 1.0642 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=168) RUNNING
+2016-08-30T05:59:34+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=168) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=168) COMPLETED after 0.1723
+2016-08-30T05:59:34+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=168) COMPLETED after 0.1723
+[Worker(host:mail pid:385)] 1 jobs processed at 3.8447 j/s, 0 failed
+2016-08-30T05:59:34+0700: [Worker(host:mail pid:385)] 1 jobs processed at 3.8447 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=169) RUNNING
+2016-08-30T05:59:39+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=169) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=169) COMPLETED after 0.6999
+2016-08-30T05:59:40+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=169) COMPLETED after 0.6999
+[Worker(host:mail pid:385)] 1 jobs processed at 1.2079 j/s, 0 failed
+2016-08-30T05:59:40+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.2079 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=170) RUNNING
+2016-08-30T05:59:55+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=170) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=170) COMPLETED after 0.2290
+2016-08-30T05:59:56+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=170) COMPLETED after 0.2290
+[Worker(host:mail pid:385)] 1 jobs processed at 1.4785 j/s, 0 failed
+2016-08-30T05:59:56+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.4785 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=171) RUNNING
+2016-08-30T06:00:06+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=171) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=171) COMPLETED after 0.6350
+2016-08-30T06:00:07+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=171) COMPLETED after 0.6350
+[Worker(host:mail pid:385)] Job MessageSentJob (id=172) RUNNING
+2016-08-30T06:00:07+0700: [Worker(host:mail pid:385)] Job MessageSentJob (id=172) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"MessageSentJob","args":{"last_message_id":1,"community_id":1}}}
+{"tag":"action_mailer","free":"Delivering email","type":"delivering_email","structured":{"to":["cto@vietlunch.com"],"from":["your-team@example.com"],"subject":"Bạn có một tin nhắn mới tại MealOK .vn"}}
+
+Sent mail to cto@vietlunch.com (411.1ms)
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"MessageSentJob","args":{"last_message_id":1,"community_id":1}}}
+[Worker(host:mail pid:385)] Job MessageSentJob (id=172) COMPLETED after 0.9485
+2016-08-30T06:00:08+0700: [Worker(host:mail pid:385)] Job MessageSentJob (id=172) COMPLETED after 0.9485
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=173) RUNNING
+2016-08-30T06:00:08+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=173) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=173) COMPLETED after 0.0342
+2016-08-30T06:00:08+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=173) COMPLETED after 0.0342
+[Worker(host:mail pid:385)] 3 jobs processed at 1.4473 j/s, 0 failed
+2016-08-30T06:00:08+0700: [Worker(host:mail pid:385)] 3 jobs processed at 1.4473 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=174) RUNNING
+2016-08-30T06:00:18+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=174) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":4,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=174) COMPLETED after 0.0407
+2016-08-30T06:00:18+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=174) COMPLETED after 0.0407
+[Worker(host:mail pid:385)] 1 jobs processed at 19.8645 j/s, 0 failed
+2016-08-30T06:00:18+0700: [Worker(host:mail pid:385)] 1 jobs processed at 19.8645 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=175) RUNNING
+2016-08-30T06:00:28+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=175) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=175) COMPLETED after 0.0254
+2016-08-30T06:00:28+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=175) COMPLETED after 0.0254
+[Worker(host:mail pid:385)] 1 jobs processed at 21.8849 j/s, 0 failed
+2016-08-30T06:00:28+0700: [Worker(host:mail pid:385)] 1 jobs processed at 21.8849 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=176) RUNNING
+2016-08-30T06:00:33+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=176) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=176) COMPLETED after 0.0203
+2016-08-30T06:00:33+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=176) COMPLETED after 0.0203
+[Worker(host:mail pid:385)] 1 jobs processed at 25.5819 j/s, 0 failed
+2016-08-30T06:00:33+0700: [Worker(host:mail pid:385)] 1 jobs processed at 25.5819 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=177) RUNNING
+2016-08-30T06:01:14+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=177) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=177) COMPLETED after 0.1744
+2016-08-30T06:01:14+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=177) COMPLETED after 0.1744
+[Worker(host:mail pid:385)] 1 jobs processed at 1.0929 j/s, 0 failed
+2016-08-30T06:01:14+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.0929 j/s, 0 failed
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=178) RUNNING
+2016-08-30T06:12:29+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=178) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"7oh20NYce5qN7bI8EdLLug","community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"7oh20NYce5qN7bI8EdLLug","community_id":1}}}
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=178) COMPLETED after 0.0779
+2016-08-30T06:12:29+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=178) COMPLETED after 0.0779
+[Worker(host:mail pid:385)] 1 jobs processed at 3.0006 j/s, 0 failed
+2016-08-30T06:12:29+0700: [Worker(host:mail pid:385)] 1 jobs processed at 3.0006 j/s, 0 failed
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=179) RUNNING
+2016-08-30T06:13:35+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=179) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"7oh20NYce5qN7bI8EdLLug","community_id":1}}}
+{"tag":"action_mailer","free":"Delivering email","type":"delivering_email","structured":{"to":["startup.dulichvn@gmail.com"],"from":["your-team@example.com"],"subject":"Welcome to MealOK .vn"}}
+
+Sent mail to startup.dulichvn@gmail.com (23.5ms)
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"7oh20NYce5qN7bI8EdLLug","community_id":1}}}
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=179) COMPLETED after 0.0820
+2016-08-30T06:13:35+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=179) COMPLETED after 0.0820
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=180) RUNNING
+2016-08-30T06:13:35+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=180) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":5,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":5,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=180) COMPLETED after 0.6778
+2016-08-30T06:13:35+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=180) COMPLETED after 0.6778
+[Worker(host:mail pid:385)] 2 jobs processed at 2.4257 j/s, 0 failed
+2016-08-30T06:13:35+0700: [Worker(host:mail pid:385)] 2 jobs processed at 2.4257 j/s, 0 failed
+[Worker(host:mail pid:385)] Job NotifyFollowersJob (id=156) RUNNING
+2016-08-30T06:19:21+0700: [Worker(host:mail pid:385)] Job NotifyFollowersJob (id=156) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"NotifyFollowersJob","args":{"listing_id":7,"community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"NotifyFollowersJob","args":{"listing_id":7,"community_id":1}}}
+[Worker(host:mail pid:385)] Job NotifyFollowersJob (id=156) COMPLETED after 0.0585
+2016-08-30T06:19:21+0700: [Worker(host:mail pid:385)] Job NotifyFollowersJob (id=156) COMPLETED after 0.0585
+[Worker(host:mail pid:385)] 1 jobs processed at 13.3883 j/s, 0 failed
+2016-08-30T06:19:21+0700: [Worker(host:mail pid:385)] 1 jobs processed at 13.3883 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=181) RUNNING
+2016-08-30T16:28:59+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=181) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":5,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":5,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=181) COMPLETED after 0.4396
+2016-08-30T16:28:59+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=181) COMPLETED after 0.4396
+[Worker(host:mail pid:385)] 1 jobs processed at 1.1695 j/s, 0 failed
+2016-08-30T16:28:59+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.1695 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=182) RUNNING
+2016-08-30T16:47:10+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=182) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=182) COMPLETED after 0.5625
+2016-08-30T16:47:11+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=182) COMPLETED after 0.5625
+[Worker(host:mail pid:385)] 1 jobs processed at 0.9111 j/s, 0 failed
+2016-08-30T16:47:11+0700: [Worker(host:mail pid:385)] 1 jobs processed at 0.9111 j/s, 0 failed
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=183) RUNNING
+2016-08-30T19:54:04+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=183) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"WSd504WNXxFfKY0nwWQ2LQ","community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"WSd504WNXxFfKY0nwWQ2LQ","community_id":1}}}
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=183) COMPLETED after 0.3462
+2016-08-30T19:54:04+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=183) COMPLETED after 0.3462
+[Worker(host:mail pid:385)] 1 jobs processed at 1.5096 j/s, 0 failed
+2016-08-30T19:54:04+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.5096 j/s, 0 failed
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=184) RUNNING
+2016-08-30T19:55:54+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=184) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"WSd504WNXxFfKY0nwWQ2LQ","community_id":1}}}
+{"tag":"action_mailer","free":"Delivering email","type":"delivering_email","structured":{"to":["godlai.kingsworder@gmail.com"],"from":["your-team@example.com"],"subject":"Welcome to MealOK .vn"}}
+
+Sent mail to godlai.kingsworder@gmail.com (21.3ms)
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"WSd504WNXxFfKY0nwWQ2LQ","community_id":1}}}
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=184) COMPLETED after 0.0796
+2016-08-30T19:55:54+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=184) COMPLETED after 0.0796
+[Worker(host:mail pid:385)] 1 jobs processed at 3.9225 j/s, 0 failed
+2016-08-30T19:55:54+0700: [Worker(host:mail pid:385)] 1 jobs processed at 3.9225 j/s, 0 failed
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=185) RUNNING
+2016-08-30T21:56:54+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=185) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"5DlLbwWBIrVW743n6mE_bw","community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"5DlLbwWBIrVW743n6mE_bw","community_id":1}}}
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=185) COMPLETED after 0.0221
+2016-08-30T21:56:54+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=185) COMPLETED after 0.0221
+[Worker(host:mail pid:385)] 1 jobs processed at 13.1671 j/s, 0 failed
+2016-08-30T21:56:54+0700: [Worker(host:mail pid:385)] 1 jobs processed at 13.1671 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=186) RUNNING
+2016-08-31T10:05:12+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=186) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=186) COMPLETED after 0.8615
+2016-08-31T10:05:13+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=186) COMPLETED after 0.8615
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=187) RUNNING
+2016-08-31T10:05:13+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=187) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=187) COMPLETED after 0.0719
+2016-08-31T10:05:13+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=187) COMPLETED after 0.0719
+[Worker(host:mail pid:385)] 2 jobs processed at 0.9563 j/s, 0 failed
+2016-08-31T10:05:13+0700: [Worker(host:mail pid:385)] 2 jobs processed at 0.9563 j/s, 0 failed
+[Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=188) RUNNING
+2016-08-31T10:07:13+0700: [Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=188) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper:0x000000085eda28 @job_data={\"job_class\"=\u003e\"DelayedPaperclip::Jobs::ActiveJob\", \"job_id\"=\u003e\"73371a5b-4cee-46a3-aa2f-24759f0129de\", \"queue_name\"=\u003e\"paperclip\", \"arguments\"=\u003e[\"ListingImage\", 8, \"image\"], \"locale\"=\u003e:vi}\u003e"}}
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Performing DelayedPaperclip::Jobs::ActiveJob from DelayedJob(paperclip) with arguments: "ListingImage", 8, "image"
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: file -b --mime '/tmp/14d04457f78631544bc258f18965f1a020160831-385-m4e6lm.jpg'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/14d04457f78631544bc258f18965f1a020160831-385-1cxh9sj.jpg[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format %m '/tmp/14d04457f78631544bc258f18965f1a020160831-385-1cxh9sj.jpg[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: convert '/tmp/14d04457f78631544bc258f18965f1a020160831-385-1cxh9sj.jpg[0]' -auto-orient -resize "1600x1600>" '/tmp/69d5a986b69d4ca10c074ef676c8c57220160831-385-1r2mk6w'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format %m '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: convert '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]' -auto-orient -resize "240x" -crop "240x160+0+10" +repage '/tmp/1a58ace003ca5f2cb4421079b5e0dcbc20160831-385-zksghm'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format %m '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: convert '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]' -auto-orient -resize "360x" -crop "360x270+0+0" +repage '/tmp/1a58ace003ca5f2cb4421079b5e0dcbc20160831-385-jnacrr'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format %m '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: convert '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]' -auto-orient -resize "x120" -crop "120x120+20+0" +repage '/tmp/1a58ace003ca5f2cb4421079b5e0dcbc20160831-385-1xfg8zz'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format %m '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: convert '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]' -auto-orient -resize "660x" -crop "660x440+0+27" +repage '/tmp/1a58ace003ca5f2cb4421079b5e0dcbc20160831-385-mnxkje'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: identify -format %m '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Command :: convert '/tmp/f119edb54170cd237c63ebf92a4998fc20160831-385-1xn3ydw[0]' -auto-orient -resize "150x" -crop "150x100+0+6" +repage '/tmp/1a58ace003ca5f2cb4421079b5e0dcbc20160831-385-7ihd2e'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [73371a5b-4cee-46a3-aa2f-24759f0129de] Performed DelayedPaperclip::Jobs::ActiveJob from DelayedJob(paperclip) in 816.98ms
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper:0x000000085eda28 @job_data={\"job_class\"=\u003e\"DelayedPaperclip::Jobs::ActiveJob\", \"job_id\"=\u003e\"73371a5b-4cee-46a3-aa2f-24759f0129de\", \"queue_name\"=\u003e\"paperclip\", \"arguments\"=\u003e[\"ListingImage\", 8, \"image\"], \"locale\"=\u003e:vi}\u003e"}}
+[Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=188) COMPLETED after 0.8393
+2016-08-31T10:07:14+0700: [Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=188) COMPLETED after 0.8393
+[Worker(host:mail pid:385)] 1 jobs processed at 1.0586 j/s, 0 failed
+2016-08-31T10:07:14+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.0586 j/s, 0 failed
+[Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=189) RUNNING
+2016-08-31T10:12:19+0700: [Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=189) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper:0x000000052cdb20 @job_data={\"job_class\"=\u003e\"DelayedPaperclip::Jobs::ActiveJob\", \"job_id\"=\u003e\"c441c6c8-d540-4ff4-b60c-34917db806f0\", \"queue_name\"=\u003e\"paperclip\", \"arguments\"=\u003e[\"ListingImage\", 9, \"image\"], \"locale\"=\u003e:vi}\u003e"}}
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Performing DelayedPaperclip::Jobs::ActiveJob from DelayedJob(paperclip) with arguments: "ListingImage", 9, "image"
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: file -b --mime '/tmp/14d04457f78631544bc258f18965f1a020160831-385-3vas94.jpg'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/14d04457f78631544bc258f18965f1a020160831-385-e5836c.jpg[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format %m '/tmp/14d04457f78631544bc258f18965f1a020160831-385-e5836c.jpg[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: convert '/tmp/14d04457f78631544bc258f18965f1a020160831-385-e5836c.jpg[0]' -auto-orient -resize "1600x1600>" '/tmp/296298a225dd900282cade3b5671f02220160831-385-ivoacn'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format %m '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: convert '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]' -auto-orient -resize "240x" -crop "240x160+0+10" +repage '/tmp/5eeaec051d87daa6540bd4c073d086da20160831-385-1apa3ey'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format %m '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: convert '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]' -auto-orient -resize "360x" -crop "360x270+0+0" +repage '/tmp/5eeaec051d87daa6540bd4c073d086da20160831-385-hgafvz'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format %m '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: convert '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]' -auto-orient -resize "x120" -crop "120x120+20+0" +repage '/tmp/5eeaec051d87daa6540bd4c073d086da20160831-385-1yrrokc'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format %m '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: convert '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]' -auto-orient -resize "660x" -crop "660x440+0+27" +repage '/tmp/5eeaec051d87daa6540bd4c073d086da20160831-385-utfd9i'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: identify -format %m '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Command :: convert '/tmp/30b979eb9382c551ea684ec838397e0020160831-385-15uxa1g[0]' -auto-orient -resize "150x" -crop "150x100+0+6" +repage '/tmp/5eeaec051d87daa6540bd4c073d086da20160831-385-1i6rw7q'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [c441c6c8-d540-4ff4-b60c-34917db806f0] Performed DelayedPaperclip::Jobs::ActiveJob from DelayedJob(paperclip) in 693.98ms
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper:0x000000052cdb20 @job_data={\"job_class\"=\u003e\"DelayedPaperclip::Jobs::ActiveJob\", \"job_id\"=\u003e\"c441c6c8-d540-4ff4-b60c-34917db806f0\", \"queue_name\"=\u003e\"paperclip\", \"arguments\"=\u003e[\"ListingImage\", 9, \"image\"], \"locale\"=\u003e:vi}\u003e"}}
+[Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=189) COMPLETED after 0.7800
+2016-08-31T10:12:20+0700: [Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=189) COMPLETED after 0.7800
+[Worker(host:mail pid:385)] 1 jobs processed at 1.2622 j/s, 0 failed
+2016-08-31T10:12:20+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.2622 j/s, 0 failed
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=192) RUNNING
+2016-08-31T10:12:25+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=192) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000004e2c120 @index=\"listing_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000004e2c120 @index=\"listing_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=192) COMPLETED after 0.3839
+2016-08-31T10:12:25+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=192) COMPLETED after 0.3839
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 49 in listing_core as deleted (id=193) RUNNING
+2016-08-31T10:12:25+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 49 in listing_core as deleted (id=193) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000004d78080 @index=\"listing_core\", @document_id=49\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000004d78080 @index=\"listing_core\", @document_id=49\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 49 in listing_core as deleted (id=193) COMPLETED after 1.2415
+2016-08-31T10:12:27+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 49 in listing_core as deleted (id=193) COMPLETED after 1.2415
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=194) RUNNING
+2016-08-31T10:12:27+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=194) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000004cdddc8 @index=\"custom_field_value_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000004cdddc8 @index=\"custom_field_value_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=194) COMPLETED after 0.2119
+2016-08-31T10:12:27+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=194) COMPLETED after 0.2119
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 78 in custom_field_value_core as deleted (id=195) RUNNING
+2016-08-31T10:12:27+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 78 in custom_field_value_core as deleted (id=195) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000004c7a390 @index=\"custom_field_value_core\", @document_id=78\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000004c7a390 @index=\"custom_field_value_core\", @document_id=78\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 78 in custom_field_value_core as deleted (id=195) COMPLETED after 0.0184
+2016-08-31T10:12:27+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 78 in custom_field_value_core as deleted (id=195) COMPLETED after 0.0184
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 84 in custom_field_value_core as deleted (id=196) RUNNING
+2016-08-31T10:12:27+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 84 in custom_field_value_core as deleted (id=196) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000004bce888 @index=\"custom_field_value_core\", @document_id=84\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000004bce888 @index=\"custom_field_value_core\", @document_id=84\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 84 in custom_field_value_core as deleted (id=196) COMPLETED after 0.0144
+2016-08-31T10:12:27+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 84 in custom_field_value_core as deleted (id=196) COMPLETED after 0.0144
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 90 in custom_field_value_core as deleted (id=197) RUNNING
+2016-08-31T10:12:27+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 90 in custom_field_value_core as deleted (id=197) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000004b42b80 @index=\"custom_field_value_core\", @document_id=90\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000004b42b80 @index=\"custom_field_value_core\", @document_id=90\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 90 in custom_field_value_core as deleted (id=197) COMPLETED after 0.0117
+2016-08-31T10:12:27+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 90 in custom_field_value_core as deleted (id=197) COMPLETED after 0.0117
+[Worker(host:mail pid:385)] Job ListingCreatedJob (id=190) RUNNING
+2016-08-31T10:12:27+0700: [Worker(host:mail pid:385)] Job ListingCreatedJob (id=190) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"ListingCreatedJob","args":{"listing_id":8,"community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"ListingCreatedJob","args":{"listing_id":8,"community_id":1}}}
+[Worker(host:mail pid:385)] Job ListingCreatedJob (id=190) COMPLETED after 0.0266
+2016-08-31T10:12:27+0700: [Worker(host:mail pid:385)] Job ListingCreatedJob (id=190) COMPLETED after 0.0266
+[Worker(host:mail pid:385)] 7 jobs processed at 3.0542 j/s, 0 failed
+2016-08-31T10:12:27+0700: [Worker(host:mail pid:385)] 7 jobs processed at 3.0542 j/s, 0 failed
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=198) RUNNING
+2016-08-31T10:19:27+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=198) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000007fbb010 @index=\"listing_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000007fbb010 @index=\"listing_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=198) COMPLETED after 0.2567
+2016-08-31T10:19:28+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=198) COMPLETED after 0.2567
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 49 in listing_core as deleted (id=199) RUNNING
+2016-08-31T10:19:28+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 49 in listing_core as deleted (id=199) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000b4e5c90 @index=\"listing_core\", @document_id=49\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000b4e5c90 @index=\"listing_core\", @document_id=49\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 49 in listing_core as deleted (id=199) COMPLETED after 0.0421
+2016-08-31T10:19:28+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 49 in listing_core as deleted (id=199) COMPLETED after 0.0421
+[Worker(host:mail pid:385)] 2 jobs processed at 5.5236 j/s, 0 failed
+2016-08-31T10:19:28+0700: [Worker(host:mail pid:385)] 2 jobs processed at 5.5236 j/s, 0 failed
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=200) RUNNING
+2016-08-31T10:19:43+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=200) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000a76d4a0 @index=\"listing_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000a76d4a0 @index=\"listing_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=200) COMPLETED after 0.4440
+2016-08-31T10:19:44+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=200) COMPLETED after 0.4440
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 43 in listing_core as deleted (id=201) RUNNING
+2016-08-31T10:19:44+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 43 in listing_core as deleted (id=201) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000afc6b88 @index=\"listing_core\", @document_id=43\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000afc6b88 @index=\"listing_core\", @document_id=43\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 43 in listing_core as deleted (id=201) COMPLETED after 0.6975
+2016-08-31T10:19:44+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 43 in listing_core as deleted (id=201) COMPLETED after 0.6975
+[Worker(host:mail pid:385)] 2 jobs processed at 1.2888 j/s, 0 failed
+2016-08-31T10:19:44+0700: [Worker(host:mail pid:385)] 2 jobs processed at 1.2888 j/s, 0 failed
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=202) RUNNING
+2016-08-31T10:20:09+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=202) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000b2b5b50 @index=\"listing_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000b2b5b50 @index=\"listing_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=202) COMPLETED after 0.2480
+2016-08-31T10:20:10+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=202) COMPLETED after 0.2480
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 37 in listing_core as deleted (id=203) RUNNING
+2016-08-31T10:20:10+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 37 in listing_core as deleted (id=203) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x000000095cee88 @index=\"listing_core\", @document_id=37\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x000000095cee88 @index=\"listing_core\", @document_id=37\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 37 in listing_core as deleted (id=203) COMPLETED after 0.0129
+2016-08-31T10:20:10+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 37 in listing_core as deleted (id=203) COMPLETED after 0.0129
+[Worker(host:mail pid:385)] 2 jobs processed at 6.0670 j/s, 0 failed
+2016-08-31T10:20:10+0700: [Worker(host:mail pid:385)] 2 jobs processed at 6.0670 j/s, 0 failed
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=204) RUNNING
+2016-08-31T10:20:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=204) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000008094a18 @index=\"listing_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000008094a18 @index=\"listing_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=204) COMPLETED after 0.1045
+2016-08-31T10:20:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=204) COMPLETED after 0.1045
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 31 in listing_core as deleted (id=205) RUNNING
+2016-08-31T10:20:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 31 in listing_core as deleted (id=205) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000b051bc0 @index=\"listing_core\", @document_id=31\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000b051bc0 @index=\"listing_core\", @document_id=31\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 31 in listing_core as deleted (id=205) COMPLETED after 0.0310
+2016-08-31T10:20:20+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 31 in listing_core as deleted (id=205) COMPLETED after 0.0310
+[Worker(host:mail pid:385)] 2 jobs processed at 7.3800 j/s, 0 failed
+2016-08-31T10:20:20+0700: [Worker(host:mail pid:385)] 2 jobs processed at 7.3800 j/s, 0 failed
+[Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=206) RUNNING
+2016-08-31T10:22:05+0700: [Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=206) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper:0x0000000b4d2ac8 @job_data={\"job_class\"=\u003e\"DelayedPaperclip::Jobs::ActiveJob\", \"job_id\"=\u003e\"88e59a4f-6c97-47cd-8e37-393dce7c70fe\", \"queue_name\"=\u003e\"paperclip\", \"arguments\"=\u003e[\"ListingImage\", 10, \"image\"], \"locale\"=\u003e:vi}\u003e"}}
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Performing DelayedPaperclip::Jobs::ActiveJob from DelayedJob(paperclip) with arguments: "ListingImage", 10, "image"
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: file -b --mime '/tmp/14d04457f78631544bc258f18965f1a020160831-385-19ajr8l.jpg'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/14d04457f78631544bc258f18965f1a020160831-385-135xaux.jpg[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format %m '/tmp/14d04457f78631544bc258f18965f1a020160831-385-135xaux.jpg[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: convert '/tmp/14d04457f78631544bc258f18965f1a020160831-385-135xaux.jpg[0]' -auto-orient -resize "1600x1600>" '/tmp/56522cb00e8995bef0bc6ae6c4044bab20160831-385-lcw2t8'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format %m '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: convert '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]' -auto-orient -resize "240x" -crop "240x160+0+10" +repage '/tmp/bf8670be00d1e52747ce8ba5b9d0946a20160831-385-1fkmv8b'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format %m '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: convert '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]' -auto-orient -resize "360x" -crop "360x270+0+0" +repage '/tmp/bf8670be00d1e52747ce8ba5b9d0946a20160831-385-cst00o'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format %m '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: convert '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]' -auto-orient -resize "x120" -crop "120x120+20+0" +repage '/tmp/bf8670be00d1e52747ce8ba5b9d0946a20160831-385-38vhm3'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format %m '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: convert '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]' -auto-orient -resize "660x" -crop "660x440+0+27" +repage '/tmp/bf8670be00d1e52747ce8ba5b9d0946a20160831-385-1qsq6g2'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: identify -format %m '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Command :: convert '/tmp/7012c9f428b84a19a15e7c4a4157323820160831-385-1nfspzq[0]' -auto-orient -resize "150x" -crop "150x100+0+6" +repage '/tmp/bf8670be00d1e52747ce8ba5b9d0946a20160831-385-1irtm35'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [88e59a4f-6c97-47cd-8e37-393dce7c70fe] Performed DelayedPaperclip::Jobs::ActiveJob from DelayedJob(paperclip) in 993.08ms
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper:0x0000000b4d2ac8 @job_data={\"job_class\"=\u003e\"DelayedPaperclip::Jobs::ActiveJob\", \"job_id\"=\u003e\"88e59a4f-6c97-47cd-8e37-393dce7c70fe\", \"queue_name\"=\u003e\"paperclip\", \"arguments\"=\u003e[\"ListingImage\", 10, \"image\"], \"locale\"=\u003e:vi}\u003e"}}
+[Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=206) COMPLETED after 1.0377
+2016-08-31T10:22:06+0700: [Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=206) COMPLETED after 1.0377
+[Worker(host:mail pid:385)] 1 jobs processed at 0.9211 j/s, 0 failed
+2016-08-31T10:22:06+0700: [Worker(host:mail pid:385)] 1 jobs processed at 0.9211 j/s, 0 failed
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=209) RUNNING
+2016-08-31T10:22:11+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=209) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000009658598 @index=\"listing_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000009658598 @index=\"listing_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=209) COMPLETED after 0.1283
+2016-08-31T10:22:11+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=209) COMPLETED after 0.1283
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 55 in listing_core as deleted (id=210) RUNNING
+2016-08-31T10:22:11+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 55 in listing_core as deleted (id=210) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000007b62e28 @index=\"listing_core\", @document_id=55\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000007b62e28 @index=\"listing_core\", @document_id=55\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 55 in listing_core as deleted (id=210) COMPLETED after 0.0119
+2016-08-31T10:22:11+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 55 in listing_core as deleted (id=210) COMPLETED after 0.0119
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=211) RUNNING
+2016-08-31T10:22:11+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=211) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000b14d470 @index=\"custom_field_value_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000b14d470 @index=\"custom_field_value_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=211) COMPLETED after 0.1425
+2016-08-31T10:22:11+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=211) COMPLETED after 0.1425
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 96 in custom_field_value_core as deleted (id=212) RUNNING
+2016-08-31T10:22:11+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 96 in custom_field_value_core as deleted (id=212) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000ae17ad0 @index=\"custom_field_value_core\", @document_id=96\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000ae17ad0 @index=\"custom_field_value_core\", @document_id=96\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 96 in custom_field_value_core as deleted (id=212) COMPLETED after 0.0275
+2016-08-31T10:22:11+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 96 in custom_field_value_core as deleted (id=212) COMPLETED after 0.0275
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 102 in custom_field_value_core as deleted (id=213) RUNNING
+2016-08-31T10:22:11+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 102 in custom_field_value_core as deleted (id=213) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000ac96530 @index=\"custom_field_value_core\", @document_id=102\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000ac96530 @index=\"custom_field_value_core\", @document_id=102\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 102 in custom_field_value_core as deleted (id=213) COMPLETED after 0.0170
+2016-08-31T10:22:12+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 102 in custom_field_value_core as deleted (id=213) COMPLETED after 0.0170
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 108 in custom_field_value_core as deleted (id=214) RUNNING
+2016-08-31T10:22:12+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 108 in custom_field_value_core as deleted (id=214) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000ab07b38 @index=\"custom_field_value_core\", @document_id=108\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000ab07b38 @index=\"custom_field_value_core\", @document_id=108\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 108 in custom_field_value_core as deleted (id=214) COMPLETED after 0.0198
+2016-08-31T10:22:12+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 108 in custom_field_value_core as deleted (id=214) COMPLETED after 0.0198
+[Worker(host:mail pid:385)] Job ListingCreatedJob (id=207) RUNNING
+2016-08-31T10:22:12+0700: [Worker(host:mail pid:385)] Job ListingCreatedJob (id=207) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"ListingCreatedJob","args":{"listing_id":9,"community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"ListingCreatedJob","args":{"listing_id":9,"community_id":1}}}
+[Worker(host:mail pid:385)] Job ListingCreatedJob (id=207) COMPLETED after 0.0357
+2016-08-31T10:22:12+0700: [Worker(host:mail pid:385)] Job ListingCreatedJob (id=207) COMPLETED after 0.0357
+[Worker(host:mail pid:385)] 7 jobs processed at 12.2154 j/s, 0 failed
+2016-08-31T10:22:12+0700: [Worker(host:mail pid:385)] 7 jobs processed at 12.2154 j/s, 0 failed
+[Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=215) RUNNING
+2016-08-31T10:28:57+0700: [Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=215) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper:0x0000000ada4648 @job_data={\"job_class\"=\u003e\"DelayedPaperclip::Jobs::ActiveJob\", \"job_id\"=\u003e\"18251171-3637-488a-872c-df4b34cd8e85\", \"queue_name\"=\u003e\"paperclip\", \"arguments\"=\u003e[\"ListingImage\", 11, \"image\"], \"locale\"=\u003e:vi}\u003e"}}
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Performing DelayedPaperclip::Jobs::ActiveJob from DelayedJob(paperclip) with arguments: "ListingImage", 11, "image"
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: file -b --mime '/tmp/b028a9636a67bc524044e37293070eb720160831-385-1we9g8l.jpg'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/b028a9636a67bc524044e37293070eb720160831-385-1q85bjv.jpg[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format %m '/tmp/b028a9636a67bc524044e37293070eb720160831-385-1q85bjv.jpg[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: convert '/tmp/b028a9636a67bc524044e37293070eb720160831-385-1q85bjv.jpg[0]' -auto-orient -resize "1600x1600>" '/tmp/602eda56b09df0689139a4e565d9cc9d20160831-385-66u2ll'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format %m '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: convert '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]' -auto-orient -resize "240x" -crop "240x160+0+10" +repage '/tmp/4eafa431032819063c5c74216d2ee19c20160831-385-1s4bvml'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format %m '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: convert '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]' -auto-orient -resize "360x" -crop "360x270+0+0" +repage '/tmp/4eafa431032819063c5c74216d2ee19c20160831-385-1rzzdow'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format %m '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: convert '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]' -auto-orient -resize "x120" -crop "120x120+20+0" +repage '/tmp/4eafa431032819063c5c74216d2ee19c20160831-385-18slge0'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format %m '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: convert '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]' -auto-orient -resize "660x" -crop "660x440+0+27" +repage '/tmp/4eafa431032819063c5c74216d2ee19c20160831-385-iogmsn'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: identify -format %m '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Command :: convert '/tmp/dd9f3c82dd93fb4236a61339721704dc20160831-385-rqjr66[0]' -auto-orient -resize "150x" -crop "150x100+0+6" +repage '/tmp/4eafa431032819063c5c74216d2ee19c20160831-385-mz8yec'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [18251171-3637-488a-872c-df4b34cd8e85] Performed DelayedPaperclip::Jobs::ActiveJob from DelayedJob(paperclip) in 884.59ms
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper:0x0000000ada4648 @job_data={\"job_class\"=\u003e\"DelayedPaperclip::Jobs::ActiveJob\", \"job_id\"=\u003e\"18251171-3637-488a-872c-df4b34cd8e85\", \"queue_name\"=\u003e\"paperclip\", \"arguments\"=\u003e[\"ListingImage\", 11, \"image\"], \"locale\"=\u003e:vi}\u003e"}}
+[Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=215) COMPLETED after 1.7364
+2016-08-31T10:28:59+0700: [Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=215) COMPLETED after 1.7364
+[Worker(host:mail pid:385)] 1 jobs processed at 0.5321 j/s, 0 failed
+2016-08-31T10:28:59+0700: [Worker(host:mail pid:385)] 1 jobs processed at 0.5321 j/s, 0 failed
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=218) RUNNING
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=218) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000a3b8fd0 @index=\"listing_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000a3b8fd0 @index=\"listing_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=218) COMPLETED after 0.2480
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=218) COMPLETED after 0.2480
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 61 in listing_core as deleted (id=219) RUNNING
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 61 in listing_core as deleted (id=219) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000a2be530 @index=\"listing_core\", @document_id=61\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000a2be530 @index=\"listing_core\", @document_id=61\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 61 in listing_core as deleted (id=219) COMPLETED after 0.0147
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 61 in listing_core as deleted (id=219) COMPLETED after 0.0147
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=220) RUNNING
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=220) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000a1e2a30 @index=\"custom_field_value_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000a1e2a30 @index=\"custom_field_value_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=220) COMPLETED after 0.1121
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=220) COMPLETED after 0.1121
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 114 in custom_field_value_core as deleted (id=221) RUNNING
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 114 in custom_field_value_core as deleted (id=221) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000a0c1d40 @index=\"custom_field_value_core\", @document_id=114\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000a0c1d40 @index=\"custom_field_value_core\", @document_id=114\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 114 in custom_field_value_core as deleted (id=221) COMPLETED after 0.0276
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 114 in custom_field_value_core as deleted (id=221) COMPLETED after 0.0276
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 120 in custom_field_value_core as deleted (id=222) RUNNING
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 120 in custom_field_value_core as deleted (id=222) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000009ff1af0 @index=\"custom_field_value_core\", @document_id=120\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000009ff1af0 @index=\"custom_field_value_core\", @document_id=120\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 120 in custom_field_value_core as deleted (id=222) COMPLETED after 0.0102
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 120 in custom_field_value_core as deleted (id=222) COMPLETED after 0.0102
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 126 in custom_field_value_core as deleted (id=223) RUNNING
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 126 in custom_field_value_core as deleted (id=223) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000009f015c8 @index=\"custom_field_value_core\", @document_id=126\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000009f015c8 @index=\"custom_field_value_core\", @document_id=126\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 126 in custom_field_value_core as deleted (id=223) COMPLETED after 0.0098
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 126 in custom_field_value_core as deleted (id=223) COMPLETED after 0.0098
+[Worker(host:mail pid:385)] Job ListingCreatedJob (id=216) RUNNING
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job ListingCreatedJob (id=216) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"ListingCreatedJob","args":{"listing_id":10,"community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"ListingCreatedJob","args":{"listing_id":10,"community_id":1}}}
+[Worker(host:mail pid:385)] Job ListingCreatedJob (id=216) COMPLETED after 0.0253
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] Job ListingCreatedJob (id=216) COMPLETED after 0.0253
+[Worker(host:mail pid:385)] 7 jobs processed at 12.1561 j/s, 0 failed
+2016-08-31T10:29:04+0700: [Worker(host:mail pid:385)] 7 jobs processed at 12.1561 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=224) RUNNING
+2016-08-31T10:37:35+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=224) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":3,"host":"www.mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":3,"host":"www.mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=224) COMPLETED after 0.0504
+2016-08-31T10:37:35+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=224) COMPLETED after 0.0504
+[Worker(host:mail pid:385)] 1 jobs processed at 11.9301 j/s, 0 failed
+2016-08-31T10:37:35+0700: [Worker(host:mail pid:385)] 1 jobs processed at 11.9301 j/s, 0 failed
+[Worker(host:mail pid:385)] Job NotifyFollowersJob (id=191) RUNNING
+2016-08-31T10:42:25+0700: [Worker(host:mail pid:385)] Job NotifyFollowersJob (id=191) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"NotifyFollowersJob","args":{"listing_id":8,"community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"NotifyFollowersJob","args":{"listing_id":8,"community_id":1}}}
+[Worker(host:mail pid:385)] Job NotifyFollowersJob (id=191) COMPLETED after 0.0205
+2016-08-31T10:42:25+0700: [Worker(host:mail pid:385)] Job NotifyFollowersJob (id=191) COMPLETED after 0.0205
+[Worker(host:mail pid:385)] 1 jobs processed at 23.0639 j/s, 0 failed
+2016-08-31T10:42:25+0700: [Worker(host:mail pid:385)] 1 jobs processed at 23.0639 j/s, 0 failed
+[Worker(host:mail pid:385)] Job NotifyFollowersJob (id=208) RUNNING
+2016-08-31T10:52:11+0700: [Worker(host:mail pid:385)] Job NotifyFollowersJob (id=208) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"NotifyFollowersJob","args":{"listing_id":9,"community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"NotifyFollowersJob","args":{"listing_id":9,"community_id":1}}}
+[Worker(host:mail pid:385)] Job NotifyFollowersJob (id=208) COMPLETED after 0.2439
+2016-08-31T10:52:11+0700: [Worker(host:mail pid:385)] Job NotifyFollowersJob (id=208) COMPLETED after 0.2439
+[Worker(host:mail pid:385)] 1 jobs processed at 1.4103 j/s, 0 failed
+2016-08-31T10:52:11+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.4103 j/s, 0 failed
+[Worker(host:mail pid:385)] Job NotifyFollowersJob (id=217) RUNNING
+2016-08-31T10:59:01+0700: [Worker(host:mail pid:385)] Job NotifyFollowersJob (id=217) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"NotifyFollowersJob","args":{"listing_id":10,"community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"NotifyFollowersJob","args":{"listing_id":10,"community_id":1}}}
+[Worker(host:mail pid:385)] Job NotifyFollowersJob (id=217) COMPLETED after 0.0252
+2016-08-31T10:59:01+0700: [Worker(host:mail pid:385)] Job NotifyFollowersJob (id=217) COMPLETED after 0.0252
+[Worker(host:mail pid:385)] 1 jobs processed at 12.5698 j/s, 0 failed
+2016-08-31T10:59:01+0700: [Worker(host:mail pid:385)] 1 jobs processed at 12.5698 j/s, 0 failed
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=225) RUNNING
+2016-09-01T03:14:51+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=225) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"ZRHuHeEmFvPUMTHjruzWFg","community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"ZRHuHeEmFvPUMTHjruzWFg","community_id":1}}}
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=225) COMPLETED after 0.0941
+2016-09-01T03:14:51+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=225) COMPLETED after 0.0941
+[Worker(host:mail pid:385)] 1 jobs processed at 1.4953 j/s, 0 failed
+2016-09-01T03:14:52+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.4953 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=226) RUNNING
+2016-09-01T05:07:41+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=226) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=226) COMPLETED after 0.3454
+2016-09-01T05:07:42+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=226) COMPLETED after 0.3454
+[Worker(host:mail pid:385)] 1 jobs processed at 2.6334 j/s, 0 failed
+2016-09-01T05:07:42+0700: [Worker(host:mail pid:385)] 1 jobs processed at 2.6334 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=227) RUNNING
+2016-09-01T05:07:52+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=227) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=227) COMPLETED after 0.0235
+2016-09-01T05:07:52+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=227) COMPLETED after 0.0235
+[Worker(host:mail pid:385)] 1 jobs processed at 24.8264 j/s, 0 failed
+2016-09-01T05:07:52+0700: [Worker(host:mail pid:385)] 1 jobs processed at 24.8264 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=228) RUNNING
+2016-09-01T06:24:44+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=228) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=228) COMPLETED after 0.0290
+2016-09-01T06:24:44+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=228) COMPLETED after 0.0290
+[Worker(host:mail pid:385)] 1 jobs processed at 14.4426 j/s, 0 failed
+2016-09-01T06:24:44+0700: [Worker(host:mail pid:385)] 1 jobs processed at 14.4426 j/s, 0 failed
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=229) RUNNING
+2016-09-02T05:07:10+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=229) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"PC7UjvZp_ufQURXdxY8PBw","community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"PC7UjvZp_ufQURXdxY8PBw","community_id":1}}}
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=229) COMPLETED after 0.0212
+2016-09-02T05:07:10+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=229) COMPLETED after 0.0212
+[Worker(host:mail pid:385)] 1 jobs processed at 23.2952 j/s, 0 failed
+2016-09-02T05:07:10+0700: [Worker(host:mail pid:385)] 1 jobs processed at 23.2952 j/s, 0 failed
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=230) RUNNING
+2016-09-02T05:07:55+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=230) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"PC7UjvZp_ufQURXdxY8PBw","community_id":1}}}
+{"tag":"action_mailer","free":"Delivering email","type":"delivering_email","structured":{"to":["wiavngroup@yahoo.com"],"from":["your-team@example.com"],"subject":"Welcome to MealOK .vn"}}
+
+Sent mail to wiavngroup@yahoo.com (170.2ms)
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"PC7UjvZp_ufQURXdxY8PBw","community_id":1}}}
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=230) COMPLETED after 0.3915
+2016-09-02T05:07:55+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=230) COMPLETED after 0.3915
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=231) RUNNING
+2016-09-02T05:07:55+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=231) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":9,"host":"www.mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":9,"host":"www.mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=231) COMPLETED after 0.1445
+2016-09-02T05:07:55+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=231) COMPLETED after 0.1445
+[Worker(host:mail pid:385)] 2 jobs processed at 2.8988 j/s, 0 failed
+2016-09-02T05:07:55+0700: [Worker(host:mail pid:385)] 2 jobs processed at 2.8988 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=232) RUNNING
+2016-09-02T05:08:20+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=232) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":9,"host":"www.mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":9,"host":"www.mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=232) COMPLETED after 0.0336
+2016-09-02T05:08:20+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=232) COMPLETED after 0.0336
+[Worker(host:mail pid:385)] 1 jobs processed at 7.1184 j/s, 0 failed
+2016-09-02T05:08:20+0700: [Worker(host:mail pid:385)] 1 jobs processed at 7.1184 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=233) RUNNING
+2016-09-05T09:09:44+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=233) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=233) COMPLETED after 0.3053
+2016-09-05T09:09:45+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=233) COMPLETED after 0.3053
+[Worker(host:mail pid:385)] 1 jobs processed at 1.8889 j/s, 0 failed
+2016-09-05T09:09:45+0700: [Worker(host:mail pid:385)] 1 jobs processed at 1.8889 j/s, 0 failed
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=234) RUNNING
+2016-09-05T09:09:50+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=234) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000004a11ea0 @index=\"listing_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x00000004a11ea0 @index=\"listing_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=234) COMPLETED after 0.8353
+2016-09-05T09:09:50+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=234) COMPLETED after 0.8353
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 55 in listing_core as deleted (id=235) RUNNING
+2016-09-05T09:09:51+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 55 in listing_core as deleted (id=235) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x000000049d58b0 @index=\"listing_core\", @document_id=55\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x000000049d58b0 @index=\"listing_core\", @document_id=55\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 55 in listing_core as deleted (id=235) COMPLETED after 0.0791
+2016-09-05T09:09:51+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 55 in listing_core as deleted (id=235) COMPLETED after 0.0791
+[Worker(host:mail pid:385)] 2 jobs processed at 1.9283 j/s, 0 failed
+2016-09-05T09:09:51+0700: [Worker(host:mail pid:385)] 2 jobs processed at 1.9283 j/s, 0 failed
+[Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=236) RUNNING
+2016-09-05T09:13:46+0700: [Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=236) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper:0x0000000a4fec78 @job_data={\"job_class\"=\u003e\"DelayedPaperclip::Jobs::ActiveJob\", \"job_id\"=\u003e\"70317ec8-5feb-4375-adb9-9463fabccedf\", \"queue_name\"=\u003e\"paperclip\", \"arguments\"=\u003e[\"ListingImage\", 12, \"image\"], \"locale\"=\u003e:vi}\u003e"}}
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Performing DelayedPaperclip::Jobs::ActiveJob from DelayedJob(paperclip) with arguments: "ListingImage", 12, "image"
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: file -b --mime '/tmp/a09dfe28a03e73ecf5efc4671a817e4520160905-385-r3xo96.jpg'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/a09dfe28a03e73ecf5efc4671a817e4520160905-385-129nabk.jpg[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format %m '/tmp/a09dfe28a03e73ecf5efc4671a817e4520160905-385-129nabk.jpg[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: convert '/tmp/a09dfe28a03e73ecf5efc4671a817e4520160905-385-129nabk.jpg[0]' -auto-orient -resize "1600x1600>" '/tmp/395f9e9edd43958c8da09a05d710e4d720160905-385-1bgrvg2'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format %m '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: convert '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]' -auto-orient -resize "240x" -crop "240x160+0+10" +repage '/tmp/25f997e5d6450f09861c8c66d0cf626520160905-385-mbwww'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format %m '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: convert '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]' -auto-orient -resize "360x" -crop "360x270+0+0" +repage '/tmp/25f997e5d6450f09861c8c66d0cf626520160905-385-amnnll'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format %m '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: convert '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]' -auto-orient -resize "x120" -crop "120x120+20+0" +repage '/tmp/25f997e5d6450f09861c8c66d0cf626520160905-385-13zsaeo'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format %m '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: convert '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]' -auto-orient -resize "660x" -crop "660x440+0+27" +repage '/tmp/25f997e5d6450f09861c8c66d0cf626520160905-385-1umzpji'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format '%wx%h,%[exif:orientation]' '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]' 2>/dev/null
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: identify -format %m '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Command :: convert '/tmp/d8dbe3f1fb2ede6194ff2811898757a820160905-385-11hyqbs[0]' -auto-orient -resize "150x" -crop "150x100+0+6" +repage '/tmp/25f997e5d6450f09861c8c66d0cf626520160905-385-7td61e'
+[ActiveJob] [DelayedPaperclip::Jobs::ActiveJob] [70317ec8-5feb-4375-adb9-9463fabccedf] Performed DelayedPaperclip::Jobs::ActiveJob from DelayedJob(paperclip) in 1120.8ms
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper:0x0000000a4fec78 @job_data={\"job_class\"=\u003e\"DelayedPaperclip::Jobs::ActiveJob\", \"job_id\"=\u003e\"70317ec8-5feb-4375-adb9-9463fabccedf\", \"queue_name\"=\u003e\"paperclip\", \"arguments\"=\u003e[\"ListingImage\", 12, \"image\"], \"locale\"=\u003e:vi}\u003e"}}
+[Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=236) COMPLETED after 1.1408
+2016-09-05T09:13:47+0700: [Worker(host:mail pid:385)] Job ActiveJob::QueueAdapters::DelayedJobAdapter::JobWrapper (id=236) COMPLETED after 1.1408
+[Worker(host:mail pid:385)] 1 jobs processed at 0.8559 j/s, 0 failed
+2016-09-05T09:13:47+0700: [Worker(host:mail pid:385)] 1 jobs processed at 0.8559 j/s, 0 failed
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=239) RUNNING
+2016-09-05T09:14:03+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=239) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000ab7bfb0 @index=\"listing_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000ab7bfb0 @index=\"listing_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=239) COMPLETED after 0.4892
+2016-09-05T09:14:03+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process listing_delta (id=239) COMPLETED after 0.4892
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 67 in listing_core as deleted (id=240) RUNNING
+2016-09-05T09:14:03+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 67 in listing_core as deleted (id=240) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000b0691a8 @index=\"listing_core\", @document_id=67\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000b0691a8 @index=\"listing_core\", @document_id=67\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 67 in listing_core as deleted (id=240) COMPLETED after 0.2968
+2016-09-05T09:14:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 67 in listing_core as deleted (id=240) COMPLETED after 0.2968
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=241) RUNNING
+2016-09-05T09:14:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=241) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000945cc08 @index=\"custom_field_value_delta\"\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::DeltaJob:0x0000000945cc08 @index=\"custom_field_value_delta\"\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=241) COMPLETED after 0.1516
+2016-09-05T09:14:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Process custom_field_value_delta (id=241) COMPLETED after 0.1516
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 132 in custom_field_value_core as deleted (id=242) RUNNING
+2016-09-05T09:14:04+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 132 in custom_field_value_core as deleted (id=242) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000008094f18 @index=\"custom_field_value_core\", @document_id=132\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x00000008094f18 @index=\"custom_field_value_core\", @document_id=132\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 132 in custom_field_value_core as deleted (id=242) COMPLETED after 0.2214
+2016-09-05T09:14:05+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 132 in custom_field_value_core as deleted (id=242) COMPLETED after 0.2214
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 138 in custom_field_value_core as deleted (id=243) RUNNING
+2016-09-05T09:14:05+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 138 in custom_field_value_core as deleted (id=243) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000b052200 @index=\"custom_field_value_core\", @document_id=138\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000b052200 @index=\"custom_field_value_core\", @document_id=138\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 138 in custom_field_value_core as deleted (id=243) COMPLETED after 1.2427
+2016-09-05T09:14:06+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 138 in custom_field_value_core as deleted (id=243) COMPLETED after 1.2427
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 144 in custom_field_value_core as deleted (id=244) RUNNING
+2016-09-05T09:14:06+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 144 in custom_field_value_core as deleted (id=244) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000a843d98 @index=\"custom_field_value_core\", @document_id=144\u003e"}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"payload":"#\u003cThinkingSphinx::Deltas::DelayedDelta::FlagAsDeletedJob:0x0000000a843d98 @index=\"custom_field_value_core\", @document_id=144\u003e"}}
+[Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 144 in custom_field_value_core as deleted (id=244) COMPLETED after 0.0588
+2016-09-05T09:14:06+0700: [Worker(host:mail pid:385)] Job Thinking Sphinx: Mark 144 in custom_field_value_core as deleted (id=244) COMPLETED after 0.0588
+[Worker(host:mail pid:385)] Job ListingCreatedJob (id=237) RUNNING
+2016-09-05T09:14:07+0700: [Worker(host:mail pid:385)] Job ListingCreatedJob (id=237) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"ListingCreatedJob","args":{"listing_id":11,"community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"ListingCreatedJob","args":{"listing_id":11,"community_id":1}}}
+[Worker(host:mail pid:385)] Job ListingCreatedJob (id=237) COMPLETED after 0.9951
+2016-09-05T09:14:08+0700: [Worker(host:mail pid:385)] Job ListingCreatedJob (id=237) COMPLETED after 0.9951
+[Worker(host:mail pid:385)] 7 jobs processed at 1.1703 j/s, 0 failed
+2016-09-05T09:14:08+0700: [Worker(host:mail pid:385)] 7 jobs processed at 1.1703 j/s, 0 failed
+[Worker(host:mail pid:385)] Job NotifyFollowersJob (id=238) RUNNING
+2016-09-05T09:43:59+0700: [Worker(host:mail pid:385)] Job NotifyFollowersJob (id=238) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"NotifyFollowersJob","args":{"listing_id":11,"community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"NotifyFollowersJob","args":{"listing_id":11,"community_id":1}}}
+[Worker(host:mail pid:385)] Job NotifyFollowersJob (id=238) COMPLETED after 0.3578
+2016-09-05T09:43:59+0700: [Worker(host:mail pid:385)] Job NotifyFollowersJob (id=238) COMPLETED after 0.3578
+[Worker(host:mail pid:385)] 1 jobs processed at 2.0626 j/s, 0 failed
+2016-09-05T09:43:59+0700: [Worker(host:mail pid:385)] 1 jobs processed at 2.0626 j/s, 0 failed
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=245) RUNNING
+2016-09-05T11:42:01+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=245) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"rfA36llMMEeiSKGQxz7Ckg","community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"rfA36llMMEeiSKGQxz7Ckg","community_id":1}}}
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=245) COMPLETED after 0.6833
+2016-09-05T11:42:01+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=245) COMPLETED after 0.6833
+[Worker(host:mail pid:385)] 1 jobs processed at 0.3938 j/s, 0 failed
+2016-09-05T11:42:01+0700: [Worker(host:mail pid:385)] 1 jobs processed at 0.3938 j/s, 0 failed
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=246) RUNNING
+2016-09-05T11:43:17+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=246) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"rfA36llMMEeiSKGQxz7Ckg","community_id":1}}}
+{"tag":"action_mailer","free":"Delivering email","type":"delivering_email","structured":{"to":["nguyenhai@mealok.vn"],"from":["your-team@example.com"],"subject":"Welcome to MealOK .vn"}}
+
+Sent mail to nguyenhai@mealok.vn (35.3ms)
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"rfA36llMMEeiSKGQxz7Ckg","community_id":1}}}
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=246) COMPLETED after 0.1129
+2016-09-05T11:43:17+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=246) COMPLETED after 0.1129
+[Worker(host:mail pid:385)] 1 jobs processed at 7.6118 j/s, 0 failed
+2016-09-05T11:43:17+0700: [Worker(host:mail pid:385)] 1 jobs processed at 7.6118 j/s, 0 failed
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=247) RUNNING
+2016-09-05T17:03:28+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=247) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"wZQFM_MCVB9VpQNOGcS9Cw","community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"wZQFM_MCVB9VpQNOGcS9Cw","community_id":1}}}
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=247) COMPLETED after 0.1287
+2016-09-05T17:03:28+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=247) COMPLETED after 0.1287
+[Worker(host:mail pid:385)] 1 jobs processed at 2.2770 j/s, 0 failed
+2016-09-05T17:03:28+0700: [Worker(host:mail pid:385)] 1 jobs processed at 2.2770 j/s, 0 failed
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=248) RUNNING
+2016-09-05T17:13:03+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=248) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"wZQFM_MCVB9VpQNOGcS9Cw","community_id":1}}}
+{"tag":"action_mailer","free":"Delivering email","type":"delivering_email","structured":{"to":["namnguyen@vietlunch.com"],"from":["your-team@example.com"],"subject":"Welcome to MealOK .vn"}}
+
+Sent mail to namnguyen@vietlunch.com (206.4ms)
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"wZQFM_MCVB9VpQNOGcS9Cw","community_id":1}}}
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=248) COMPLETED after 0.2595
+2016-09-05T17:13:03+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=248) COMPLETED after 0.2595
+[Worker(host:mail pid:385)] 1 jobs processed at 2.9560 j/s, 0 failed
+2016-09-05T17:13:03+0700: [Worker(host:mail pid:385)] 1 jobs processed at 2.9560 j/s, 0 failed
+[Worker(host:mail pid:385)] Job MessageSentJob (id=249) RUNNING
+2016-09-05T17:13:23+0700: [Worker(host:mail pid:385)] Job MessageSentJob (id=249) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"MessageSentJob","args":{"last_message_id":2,"community_id":1}}}
+{"tag":"action_mailer","free":"Delivering email","type":"delivering_email","structured":{"to":["cto@vietlunch.com"],"from":["your-team@example.com"],"subject":"Bạn có một tin nhắn mới tại MealOK .vn"}}
+
+Sent mail to cto@vietlunch.com (15.6ms)
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"MessageSentJob","args":{"last_message_id":2,"community_id":1}}}
+[Worker(host:mail pid:385)] Job MessageSentJob (id=249) COMPLETED after 0.0897
+2016-09-05T17:13:23+0700: [Worker(host:mail pid:385)] Job MessageSentJob (id=249) COMPLETED after 0.0897
+[Worker(host:mail pid:385)] 1 jobs processed at 9.8130 j/s, 0 failed
+2016-09-05T17:13:23+0700: [Worker(host:mail pid:385)] 1 jobs processed at 9.8130 j/s, 0 failed
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=250) RUNNING
+2016-09-08T16:46:31+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=250) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=250) COMPLETED after 0.3849
+2016-09-08T16:46:32+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=250) COMPLETED after 0.3849
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=251) RUNNING
+2016-09-08T16:46:32+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=251) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"PageLoadedJob","args":{"community_membership_id":1,"host":"www.mealok.vn"}}}
+[Worker(host:mail pid:385)] Job PageLoadedJob (id=251) COMPLETED after 0.0078
+2016-09-08T16:46:32+0700: [Worker(host:mail pid:385)] Job PageLoadedJob (id=251) COMPLETED after 0.0078
+[Worker(host:mail pid:385)] 2 jobs processed at 1.9031 j/s, 0 failed
+2016-09-08T16:46:32+0700: [Worker(host:mail pid:385)] 2 jobs processed at 1.9031 j/s, 0 failed
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=252) RUNNING
+2016-09-13T18:48:38+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=252) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"A-CcfAUhxD7qD5W7JLgWDg","community_id":1}}}
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"CommunityJoinedJob","args":{"person_id":"A-CcfAUhxD7qD5W7JLgWDg","community_id":1}}}
+[Worker(host:mail pid:385)] Job CommunityJoinedJob (id=252) COMPLETED after 0.1427
+2016-09-13T18:48:38+0700: [Worker(host:mail pid:385)] Job CommunityJoinedJob (id=252) COMPLETED after 0.1427
+[Worker(host:mail pid:385)] 1 jobs processed at 0.7581 j/s, 0 failed
+2016-09-13T18:48:38+0700: [Worker(host:mail pid:385)] 1 jobs processed at 0.7581 j/s, 0 failed
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=253) RUNNING
+2016-09-13T18:51:14+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=253) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"A-CcfAUhxD7qD5W7JLgWDg","community_id":1}}}
+{"tag":"action_mailer","free":"Delivering email","type":"delivering_email","structured":{"to":["tr.kimhieu@gmail.com"],"from":["your-team@example.com"],"subject":"Welcome to MealOK .vn"}}
+
+Sent mail to tr.kimhieu@gmail.com (22.4ms)
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"SendWelcomeEmail","args":{"person_id":"A-CcfAUhxD7qD5W7JLgWDg","community_id":1}}}
+[Worker(host:mail pid:385)] Job SendWelcomeEmail (id=253) COMPLETED after 0.1522
+2016-09-13T18:51:14+0700: [Worker(host:mail pid:385)] Job SendWelcomeEmail (id=253) COMPLETED after 0.1522
+[Worker(host:mail pid:385)] 1 jobs processed at 4.0252 j/s, 0 failed
+2016-09-13T18:51:14+0700: [Worker(host:mail pid:385)] 1 jobs processed at 4.0252 j/s, 0 failed
+[Worker(host:mail pid:385)] Job MessageSentJob (id=254) RUNNING
+2016-09-13T18:51:54+0700: [Worker(host:mail pid:385)] Job MessageSentJob (id=254) RUNNING
+{"tag":"delayed_job","free":"Running job","type":"running","structured":{"job_name":"MessageSentJob","args":{"last_message_id":3,"community_id":1}}}
+{"tag":"action_mailer","free":"Delivering email","type":"delivering_email","structured":{"to":["cto@vietlunch.com"],"from":["your-team@example.com"],"subject":"Bạn có một tin nhắn mới tại MealOK .vn"}}
+
+Sent mail to cto@vietlunch.com (89.0ms)
+{"tag":"delayed_job","free":"Job success","type":"success","structured":{"job_name":"MessageSentJob","args":{"last_message_id":3,"community_id":1}}}
+[Worker(host:mail pid:385)] Job MessageSentJob (id=254) COMPLETED after 0.2066
+2016-09-13T18:51:54+0700: [Worker(host:mail pid:385)] Job MessageSentJob (id=254) COMPLETED after 0.2066
+[Worker(host:mail pid:385)] 1 jobs processed at 4.3773 j/s, 0 failed
+2016-09-13T18:51:54+0700: [Worker(host:mail pid:385)] 1 jobs processed at 4.3773 j/s, 0 failed

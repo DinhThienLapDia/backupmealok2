@@ -1,0 +1,214 @@
+[Sat Aug 27 19:04:11.886 2016] [28617] watchdog: main process 28618 forked ok
+[Sat Aug 27 19:04:11.889 2016] [28618] listening on all interfaces, port=3564
+[Sat Aug 27 19:04:11.889 2016] [28618] WARNING: index 'custom_field_value_core': preload: failed to open /home/namnp_hienle/workspace/sharetribe/db/sphinx/production/custom_field_value_core.sph: No such file or directory; NOT SERVING
+[Sat Aug 27 19:04:11.890 2016] [28618] WARNING: index 'custom_field_value_delta': preload: failed to open /home/namnp_hienle/workspace/sharetribe/db/sphinx/production/custom_field_value_delta.sph: No such file or directory; NOT SERVING
+[Sat Aug 27 19:04:11.890 2016] [28618] WARNING: index 'listing_core': preload: failed to open /home/namnp_hienle/workspace/sharetribe/db/sphinx/production/listing_core.sph: No such file or directory; NOT SERVING
+[Sat Aug 27 19:04:11.890 2016] [28618] WARNING: index 'listing_delta': preload: failed to open /home/namnp_hienle/workspace/sharetribe/db/sphinx/production/listing_delta.sph: No such file or directory; NOT SERVING
+[Sat Aug 27 19:04:11.917 2016] [28618] accepting connections
+[Mon Aug 29 03:53:23.690 2016] [28618] caught SIGTERM, shutting down
+[Mon Aug 29 03:53:23.813 2016] [28618] shutdown complete
+[Mon Aug 29 03:53:23.815 2016] [28617] watchdog: main process 28618 exited cleanly (exit code 0), shutting down
+[Mon Aug 29 03:55:19.399 2016] [  529] watchdog: main process 530 forked ok
+[Mon Aug 29 03:55:19.401 2016] [  530] listening on all interfaces, port=3564
+[Mon Aug 29 03:55:19.401 2016] [  530] WARNING: index 'custom_field_value_core': preload: failed to open /home/namnp_hienle/workspace/sharetribe/db/sphinx/production/custom_field_value_core.sph: No such file or directory; NOT SERVING
+[Mon Aug 29 03:55:19.401 2016] [  530] WARNING: index 'custom_field_value_delta': preload: failed to open /home/namnp_hienle/workspace/sharetribe/db/sphinx/production/custom_field_value_delta.sph: No such file or directory; NOT SERVING
+[Mon Aug 29 03:55:19.402 2016] [  530] WARNING: index 'listing_core': preload: failed to open /home/namnp_hienle/workspace/sharetribe/db/sphinx/production/listing_core.sph: No such file or directory; NOT SERVING
+[Mon Aug 29 03:55:19.402 2016] [  530] WARNING: index 'listing_delta': preload: failed to open /home/namnp_hienle/workspace/sharetribe/db/sphinx/production/listing_delta.sph: No such file or directory; NOT SERVING
+[Mon Aug 29 03:55:19.402 2016] [  530] accepting connections
+[Mon Aug 29 04:09:06.837 2016] [  530] caught SIGTERM, shutting down
+[Mon Aug 29 04:09:06.976 2016] [  530] shutdown complete
+[Mon Aug 29 04:09:06.983 2016] [  529] watchdog: main process 530 exited cleanly (exit code 0), shutting down
+[Mon Aug 29 04:11:07.771 2016] [ 9909] watchdog: main process 9910 forked ok
+[Mon Aug 29 04:11:07.773 2016] [ 9910] listening on all interfaces, port=3564
+[Mon Aug 29 04:11:07.786 2016] [ 9910] WARNING: index 'custom_field_value_core': preload: failed to open /home/namnp_hienle/workspace/sharetribe/db/sphinx/production/custom_field_value_core.sph: No such file or directory; NOT SERVING
+[Mon Aug 29 04:11:07.786 2016] [ 9910] WARNING: index 'custom_field_value_delta': preload: failed to open /home/namnp_hienle/workspace/sharetribe/db/sphinx/production/custom_field_value_delta.sph: No such file or directory; NOT SERVING
+[Mon Aug 29 04:11:07.786 2016] [ 9910] WARNING: index 'listing_core': preload: failed to open /home/namnp_hienle/workspace/sharetribe/db/sphinx/production/listing_core.sph: No such file or directory; NOT SERVING
+[Mon Aug 29 04:11:07.786 2016] [ 9910] WARNING: index 'listing_delta': preload: failed to open /home/namnp_hienle/workspace/sharetribe/db/sphinx/production/listing_delta.sph: No such file or directory; NOT SERVING
+[Mon Aug 29 04:11:07.792 2016] [ 9910] accepting connections
+[Mon Aug 29 04:30:10.318 2016] [ 9910] caught SIGHUP (seamless=1, in queue=1)
+[Mon Aug 29 04:30:10.342 2016] [ 9910] rotating index 'listing_delta': started
+[Mon Aug 29 04:30:10.406 2016] [ 9910] rotating index 'listing_delta': success
+[Mon Aug 29 04:30:10.406 2016] [ 9910] rotating index 'listing_core': started
+[Mon Aug 29 04:30:10.408 2016] [ 9910] rotating index 'listing_core': success
+[Mon Aug 29 04:30:10.408 2016] [ 9910] rotating index 'custom_field_value_delta': started
+[Mon Aug 29 04:30:10.410 2016] [ 9910] rotating index 'custom_field_value_delta': success
+[Mon Aug 29 04:30:10.410 2016] [ 9910] rotating index 'custom_field_value_core': started
+[Mon Aug 29 04:30:10.412 2016] [ 9910] rotating index 'custom_field_value_core': success
+[Mon Aug 29 04:30:10.412 2016] [ 9910] rotating index: all indexes done
+[Mon Aug 29 09:37:45.363 2016] [ 9910] caught SIGHUP (seamless=1, in queue=1)
+[Mon Aug 29 09:37:45.392 2016] [ 9910] rotating index 'listing_delta': started
+[Mon Aug 29 09:37:45.400 2016] [ 9910] rotating index 'listing_delta': success
+[Mon Aug 29 09:37:45.401 2016] [ 9910] rotating index: all indexes done
+------- FATAL: CRASH DUMP -------
+[Mon Aug 29 09:37:46.068 2016] [ 9910]
+
+--- crashed SphinxQL request dump ---
+UPDATE listing_core SET sphinx_deleted = 1 WHERE id = 19
+--- request dump end ---
+Sphinx 2.2.9-id64-release (rel22-r5006)
+Handling signal 11
+-------------- backtrace begins here ---------------
+Program compiled with x86_64-linux-gnu-gcc 5.3.1
+Configured with flags:  '--prefix=/usr' '--includedir=${prefix}/include' '--mandir=${prefix}/share/man' '--infodir=${prefix}/share/info' '--sysconfdir=/etc' '--localstatedir=/var' '--disable-silent-rules' '--libdir=${prefix}/lib/x86_64-linux-gnu' '--libexecdir=${prefix}/lib/x86_64-linux-gnu' '--disable-maintainer-mode' '--disable-dependency-tracking' '--host=x86_64-linux-gnu' '--build=x86_64-linux-gnu' '--localstatedir=/var/lib/sphinxsearch' '--sysconfdir=/etc/sphinxsearch' '--with-libstemmer' '--with-pgsql' 'build_alias=x86_64-linux-gnu' 'host_alias=x86_64-linux-gnu' 'CFLAGS=-g -O2 -fstack-protector-strong -Wformat -Werror=format-security -O2' 'LDFLAGS=-Wl,-Bsymbolic-functions -Wl,-z,relro' 'CPPFLAGS=-Wdate-time -D_FORTIFY_SOURCE=2' 'CXXFLAGS=-g -O2 -fstack-protector-strong -Wformat -Werror=format-security'
+Host OS is Linux lgw01-25 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+Stack bottom = 0x7fd41699bef7, thread stack size = 0x100000
+Trying manual backtrace:
+Something wrong with thread stack, manual backtrace may be incorrect (fp=0x7fd416991cd0)
+Stack looks OK, attempting backtrace.
+0x4100d2
+0x67dda8
+0x6951d5
+0x4c2c73
+0x5a2958
+0x586b80
+0x4267e8
+0x44c494
+0x44c996
+0x44cd99
+0x44d1cc
+0x47ff60
+0x458c11
+0x45beec
+0x41027f
+0x5834d2
+0x7fd41d27d6fa
+Something wrong in frame pointers, manual backtrace failed (fp=0)
+Trying system backtrace:
+begin of system symbols:
+searchd[0x579d77]
+searchd[0x4100d2]
+/lib/x86_64-linux-gnu/libpthread.so.0(+0x113d0)[0x7fd41d2873d0]
+searchd[0x67dda8]
+searchd[0x6951d5]
+searchd[0x4c2c73]
+searchd[0x5a2958]
+searchd[0x586b80]
+searchd[0x4267e8]
+searchd[0x44c494]
+searchd[0x44c996]
+searchd[0x44cd99]
+searchd[0x44d1cc]
+searchd[0x47ff60]
+searchd[0x458c11]
+searchd[0x45beec]
+searchd[0x41027f]
+searchd[0x5834d2]
+/lib/x86_64-linux-gnu/libpthread.so.0(+0x76fa)[0x7fd41d27d6fa]
+/lib/x86_64-linux-gnu/libc.so.6(clone+0x6d)[0x7fd41bc93b5d]
+-------------- backtrace ends here ---------------
+Please, create a bug report in our bug tracker (http://sphinxsearch.com/bugs) and attach there:
+a) searchd log, b) searchd binary, c) searchd symbols.
+Look into the chapter 'Reporting bugs' in the documentation
+(/usr/share/doc/sphinx/sphinx.txt or http://sphinxsearch.com/docs/current.html#reporting-bugs)
+--- BT to source lines (depth 20): ---
+--- BT to source lines finished ---
+--- 2 active threads ---
+thd 0, proto sphinxql, state query, command update
+thd 1, proto sphinxql, state net_idle, command show_meta
+------- CRASH DUMP END -------
+[Mon Aug 29 09:37:46.154 2016] [ 9909] watchdog: main process 9910 killed dirtily with signal 11, will be restarted
+[Mon Aug 29 09:37:46.154 2016] [ 9909] watchdog: main process 13292 forked ok
+[Mon Aug 29 09:37:46.155 2016] [13292] Reloading the config
+[Mon Aug 29 09:37:46.157 2016] [13292] Reconfigure the daemon
+[Mon Aug 29 09:37:46.159 2016] [13292] listening on all interfaces, port=3564
+[Mon Aug 29 09:37:46.200 2016] [13292] accepting connections
+[Mon Aug 29 09:38:16.558 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Mon Aug 29 09:38:16.598 2016] [13292] rotating index 'listing_delta': started
+[Mon Aug 29 09:38:16.789 2016] [13292] rotating index 'listing_delta': success
+[Mon Aug 29 09:38:16.790 2016] [13292] rotating index: all indexes done
+[Mon Aug 29 09:47:18.894 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Mon Aug 29 09:47:18.902 2016] [13292] rotating index 'listing_delta': started
+[Mon Aug 29 09:47:18.905 2016] [13292] rotating index 'listing_delta': success
+[Mon Aug 29 09:47:18.905 2016] [13292] rotating index: all indexes done
+[Mon Aug 29 09:47:19.018 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Mon Aug 29 09:47:19.056 2016] [13292] rotating index 'custom_field_value_delta': started
+[Mon Aug 29 09:47:19.058 2016] [13292] rotating index 'custom_field_value_delta': success
+[Mon Aug 29 09:47:19.058 2016] [13292] rotating index: all indexes done
+[Mon Aug 29 09:57:06.362 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Mon Aug 29 09:57:06.362 2016] [13292] rotating index 'listing_delta': started
+[Mon Aug 29 09:57:06.365 2016] [13292] rotating index 'listing_delta': success
+[Mon Aug 29 09:57:06.365 2016] [13292] rotating index: all indexes done
+[Mon Aug 29 09:57:06.749 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Mon Aug 29 09:57:06.772 2016] [13292] rotating index 'custom_field_value_delta': started
+[Mon Aug 29 09:57:06.797 2016] [13292] rotating index 'custom_field_value_delta': success
+[Mon Aug 29 09:57:06.797 2016] [13292] rotating index: all indexes done
+[Mon Aug 29 10:04:18.330 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Mon Aug 29 10:04:18.349 2016] [13292] rotating index 'listing_delta': started
+[Mon Aug 29 10:04:18.351 2016] [13292] rotating index 'listing_delta': success
+[Mon Aug 29 10:04:18.352 2016] [13292] rotating index: all indexes done
+[Mon Aug 29 10:04:28.571 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Mon Aug 29 10:04:28.599 2016] [13292] rotating index 'listing_delta': started
+[Mon Aug 29 10:04:28.601 2016] [13292] rotating index 'listing_delta': success
+[Mon Aug 29 10:04:28.602 2016] [13292] rotating index: all indexes done
+[Mon Aug 29 11:45:19.130 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Mon Aug 29 11:45:19.180 2016] [13292] rotating index 'listing_delta': started
+[Mon Aug 29 11:45:19.185 2016] [13292] rotating index 'listing_delta': success
+[Mon Aug 29 11:45:19.185 2016] [13292] rotating index: all indexes done
+[Tue Aug 30 05:49:19.877 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Tue Aug 30 05:49:19.923 2016] [13292] rotating index 'listing_delta': started
+[Tue Aug 30 05:49:19.985 2016] [13292] rotating index 'listing_delta': success
+[Tue Aug 30 05:49:19.986 2016] [13292] rotating index: all indexes done
+[Tue Aug 30 05:49:20.619 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Tue Aug 30 05:49:20.641 2016] [13292] rotating index 'custom_field_value_delta': started
+[Tue Aug 30 05:49:20.645 2016] [13292] rotating index 'custom_field_value_delta': success
+[Tue Aug 30 05:49:20.645 2016] [13292] rotating index: all indexes done
+[Wed Aug 31 10:12:25.624 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Wed Aug 31 10:12:25.674 2016] [13292] rotating index 'listing_delta': started
+[Wed Aug 31 10:12:25.753 2016] [13292] rotating index 'listing_delta': success
+[Wed Aug 31 10:12:25.827 2016] [13292] rotating index: all indexes done
+[Wed Aug 31 10:12:27.413 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Wed Aug 31 10:12:27.438 2016] [13292] rotating index 'custom_field_value_delta': started
+[Wed Aug 31 10:12:27.441 2016] [13292] rotating index 'custom_field_value_delta': success
+[Wed Aug 31 10:12:27.441 2016] [13292] rotating index: all indexes done
+[Wed Aug 31 10:19:28.048 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Wed Aug 31 10:19:28.064 2016] [13292] rotating index 'listing_delta': started
+[Wed Aug 31 10:19:28.065 2016] [13292] rotating index 'listing_delta': success
+[Wed Aug 31 10:19:28.066 2016] [13292] rotating index: all indexes done
+[Wed Aug 31 10:19:43.736 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Wed Aug 31 10:19:43.747 2016] [13292] rotating index 'listing_delta': started
+[Wed Aug 31 10:19:43.914 2016] [13292] rotating index 'listing_delta': success
+[Wed Aug 31 10:19:43.914 2016] [13292] rotating index: all indexes done
+[Wed Aug 31 10:20:10.099 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Wed Aug 31 10:20:10.121 2016] [13292] rotating index 'listing_delta': started
+[Wed Aug 31 10:20:10.122 2016] [13292] rotating index 'listing_delta': success
+[Wed Aug 31 10:20:10.123 2016] [13292] rotating index: all indexes done
+[Wed Aug 31 10:20:20.315 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Wed Aug 31 10:20:20.317 2016] [13292] rotating index 'listing_delta': started
+[Wed Aug 31 10:20:20.319 2016] [13292] rotating index 'listing_delta': success
+[Wed Aug 31 10:20:20.319 2016] [13292] rotating index: all indexes done
+[Wed Aug 31 10:22:11.672 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Wed Aug 31 10:22:11.686 2016] [13292] rotating index 'listing_delta': started
+[Wed Aug 31 10:22:11.693 2016] [13292] rotating index 'listing_delta': success
+[Wed Aug 31 10:22:11.693 2016] [13292] rotating index: all indexes done
+[Wed Aug 31 10:22:11.885 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Wed Aug 31 10:22:11.896 2016] [13292] rotating index 'custom_field_value_delta': started
+[Wed Aug 31 10:22:11.898 2016] [13292] rotating index 'custom_field_value_delta': success
+[Wed Aug 31 10:22:11.898 2016] [13292] rotating index: all indexes done
+[Wed Aug 31 10:29:04.500 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Wed Aug 31 10:29:04.547 2016] [13292] rotating index 'listing_delta': started
+[Wed Aug 31 10:29:04.559 2016] [13292] rotating index 'listing_delta': success
+[Wed Aug 31 10:29:04.559 2016] [13292] rotating index: all indexes done
+[Wed Aug 31 10:29:04.665 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Wed Aug 31 10:29:04.710 2016] [13292] rotating index 'custom_field_value_delta': started
+[Wed Aug 31 10:29:04.712 2016] [13292] rotating index 'custom_field_value_delta': success
+[Wed Aug 31 10:29:04.712 2016] [13292] rotating index: all indexes done
+[Mon Sep  5 09:09:50.732 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Mon Sep  5 09:09:50.812 2016] [13292] rotating index 'listing_delta': started
+[Mon Sep  5 09:09:50.879 2016] [13292] rotating index 'listing_delta': success
+[Mon Sep  5 09:09:50.880 2016] [13292] rotating index: all indexes done
+[Mon Sep  5 09:14:03.201 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Mon Sep  5 09:14:03.210 2016] [13292] rotating index 'listing_delta': started
+[Mon Sep  5 09:14:03.212 2016] [13292] rotating index 'listing_delta': success
+[Mon Sep  5 09:14:03.213 2016] [13292] rotating index: all indexes done
+[Mon Sep  5 09:14:04.440 2016] [13292] caught SIGHUP (seamless=1, in queue=1)
+[Mon Sep  5 09:14:04.465 2016] [13292] rotating index 'custom_field_value_delta': started
+[Mon Sep  5 09:14:04.489 2016] [13292] rotating index 'custom_field_value_delta': success
+[Mon Sep  5 09:14:04.490 2016] [13292] rotating index: all indexes done
+[Fri Sep 16 01:28:47.880 2016] [15123] watchdog: main process 15124 forked ok
+[Fri Sep 16 01:28:47.944 2016] [15124] listening on all interfaces, port=3564
+[Fri Sep 16 01:28:50.624 2016] [15124] binlog: replaying log /home/namnp_hienle/workspace/sharetribe/tmp/binlog/production/binlog.001
+[Fri Sep 16 01:28:50.890 2016] [15124] binlog: index listing_core: recovered from tid 0 to tid 1
+[Fri Sep 16 01:28:50.895 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 1 updates, 0 reconfigure; 1 indexes
+[Fri Sep 16 01:28:50.895 2016] [15124] binlog: finished replaying /home/namnp_hienle/workspace/sharetribe/tmp/binlog/production/binlog.001; 0.0 MB in 0.225 sec
+[Fri Sep 16 01:28:50.895 2016] [15124] binlog: finished replaying total 1 in 0.270 sec
+[Fri Sep 16 01:28:51.035 2016] [15124] accepting connections

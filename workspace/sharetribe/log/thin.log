@@ -1,0 +1,490 @@
+Writing PID to tmp/pids/thin.pid
+Using rack adapter
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/configuration/default_source.rb:675: warning: key :disable_mongo is duplicated and overwritten on line 987
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/vm/mri_vm.rb:32: warning: GC.stat keys were changed from Ruby 2.1. In this case, you refer to obsolete `total_allocated_object' (new key is `total_allocated_objects'). Please check <https://bugs.ruby-lang.org/issues/9924> for more information.
+**WARNING** ReactOnRails: ReactOnRails gem and node package MAJOR versions do not match
+                     gem: 6.0.5
+            node package: 5.2.0
+Ensure the installed MAJOR version of the gem is the same as the MAJOR version of 
+your installed node package.
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Person> at /home/namnp_hienle/workspace/sharetribe/app/models/person.rb:160)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:153)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:176)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:196)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:212)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:228)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:ListingImage> at /home/namnp_hienle/workspace/sharetribe/app/models/listing_image.rb:34)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Image> at /home/namnp_hienle/workspace/sharetribe/app/models/mercury/image.rb:20)
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/plans.rb:4: warning: already initialized constant PlanService::API::Plan
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/no_plans.rb:3: warning: previous definition of Plan was here
+Thin web server (v1.7.0 codename Dunder Mifflin)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3000, CTRL+C to stop
+Writing PID to tmp/pids/thin.pid
+Using rack adapter
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/configuration/default_source.rb:675: warning: key :disable_mongo is duplicated and overwritten on line 987
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/vm/mri_vm.rb:32: warning: GC.stat keys were changed from Ruby 2.1. In this case, you refer to obsolete `total_allocated_object' (new key is `total_allocated_objects'). Please check <https://bugs.ruby-lang.org/issues/9924> for more information.
+**WARNING** ReactOnRails: ReactOnRails gem and node package MAJOR versions do not match
+                     gem: 6.0.5
+            node package: 5.2.0
+Ensure the installed MAJOR version of the gem is the same as the MAJOR version of 
+your installed node package.
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Person> at /home/namnp_hienle/workspace/sharetribe/app/models/person.rb:160)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:153)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:176)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:196)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:212)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:228)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:ListingImage> at /home/namnp_hienle/workspace/sharetribe/app/models/listing_image.rb:34)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Image> at /home/namnp_hienle/workspace/sharetribe/app/models/mercury/image.rb:20)
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/plans.rb:4: warning: already initialized constant PlanService::API::Plan
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/no_plans.rb:3: warning: previous definition of Plan was here
+Thin web server (v1.7.0 codename Dunder Mifflin)
+Maximum connections set to 1024
+Listening on 0.0.0.0:8787, CTRL+C to stop
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":939.43,"view":454.25,"db":43.3,"params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"3a223e40-2fba-434a-815b-1372e7c86c9e"}
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":192.82,"view":109.09,"db":24.69,"params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"c70d7fa7-dd2b-4c01-8299-7a35d73912f1"}
+127.0.0.1:11211 failed (count: 0)
+127.0.0.1:11211 failed (count: 1)
+127.0.0.1:11211 is down
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":613.28,"view":184.37,"db":64.68,"params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"cfa56bac-fc09-4455-9e84-6e24c27e7d51"}
+127.0.0.1:11211 failed (count: 0)
+DalliError: No server available
+127.0.0.1:11211 failed (count: 1)
+127.0.0.1:11211 is down
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":1074.38,"view":437.65,"db":47.62,"params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"90807017-9db3-4c92-8f8a-56c2276c4cca"}
+127.0.0.1:11211 failed (count: 2)
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":164.86,"view":111.03,"db":13.52,"params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"60ce46c7-b2ef-4824-ae6f-71782fa45773"}
+127.0.0.1:11211 failed (count: 2)
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":224.04,"view":122.61,"db":19.52,"params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"32ba6c09-dbb9-4768-8e22-c716ceb343f9"}
+127.0.0.1:11211 failed (count: 3)
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":165.53,"view":103.51,"db":15.91,"params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"27f1961d-f417-445b-9950-6aabaa93e783"}
+127.0.0.1:11211 failed (count: 4)
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":1970.07,"view":382.28,"db":19.85,"params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"5ead81cb-06bf-409c-890b-f4c4df65829a"}
+127.0.0.1:11211 failed (count: 5)
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":190.32,"view":120.79,"db":19.46,"params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"63e71ff3-b59d-41ef-a0dd-d8f1f8fd1be9"}
+127.0.0.1:11211 failed (count: 3)
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":153.68,"view":101.93,"db":13.14,"params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"4e3b3bb4-dcfa-4233-9827-e7a449372a44"}
+127.0.0.1:11211 failed (count: 6)
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":197.56,"view":117.4,"db":16.17,"params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"5cd2be8c-86ba-4d9d-b838-f6827b4c94df"}
+127.0.0.1:11211 failed (count: 7)
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":177.08,"view":103.25,"db":18.74,"params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"e7f5f770-8757-4dcb-b75e-6c9b13b431be"}

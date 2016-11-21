@@ -1,0 +1,29 @@
+# Locally override default configurations
+#
+# This file overrides configurations set in `config/config.defaults.yml`.
+# Keep in mind that environment variables override setting in this file.
+#
+# Usage:
+#
+# Copy this file from `config/config.example.yml` to `config/config.yml`
+#
+
+development:
+  # Add local `development` environment configuration overrides here
+
+test:
+  # Add local `test` environment configuration overrides here
+
+staging:
+  # Add local `staging` environment configuration overrides here
+
+production:
+  # Add local `production` environment configuration overrides here
+  secret_key_base: 5d7269ee72ad7f68b8256ba84e6ea1d79aa04750535a1ee1a8c79eb572e331ac28fedbd54b8e894a9ea5bac7113f88b8170d2af270617c0a629e31183ecdde0c
+  smtp_email_address: "mail.mealok.vn"
+  smtp_email_port: 25
+  smtp_email_user_name: "welcome@mealok.vn"
+  smtp_email_password: "nam41287"
+  smtp_email_domain: "mail.mealok.vn"
+  domain: "mealok.vn"
+ # external_search_in_use: true

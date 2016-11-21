@@ -1,0 +1,155 @@
+**WARNING** ReactOnRails: ReactOnRails gem and node package MAJOR versions do not match
+                     gem: 6.0.5
+            node package: 5.2.0
+Ensure the installed MAJOR version of the gem is the same as the MAJOR version of 
+your installed node package.
+**WARNING** ReactOnRails: ReactOnRails gem and node package MAJOR versions do not match
+                     gem: 6.0.5
+            node package: 5.2.0
+Ensure the installed MAJOR version of the gem is the same as the MAJOR version of 
+your installed node package.
+**WARNING** ReactOnRails: ReactOnRails gem and node package MAJOR versions do not match
+                     gem: 6.0.5
+            node package: 5.2.0
+Ensure the installed MAJOR version of the gem is the same as the MAJOR version of 
+your installed node package.
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":301,"duration":15.1,"view":0.0,"db":0.07,"location":"http://www.mealok.vn:8787/","params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"2c44b7d8-91ce-45d8-8d6c-8d0ab922d31c"}
+127.0.0.1:11211 failed (count: 0)
+DalliError: No server available
+127.0.0.1:11211 failed (count: 1)
+127.0.0.1:11211 is down
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+127.0.0.1:11211 failed (count: 2)
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":2373.45,"view":374.79,"db":1341.38,"params":{},"host":"www.mealok.vn","community_id":1,"current_user_id":"","request_uuid":"abfc1d0d-5b3a-46a4-8453-c40b0f03da4b"}
+127.0.0.1:11211 failed (count: 0)
+DalliError: No server available
+127.0.0.1:11211 failed (count: 1)
+127.0.0.1:11211 is down
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/vi/signup","format":"html","controller":"people","action":"new","status":200,"duration":5366.97,"view":1094.06,"db":2518.79,"params":{"locale":"vi"},"host":"www.mealok.vn","community_id":1,"current_user_id":"","request_uuid":"60615a04-f6db-4950-8a2b-2484016ed526"}
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":301,"duration":11.2,"view":0.0,"db":0.04,"location":"http://www.mealok.vn:8787/","params":{},"host":"mealok.vn","community_id":1,"current_user_id":"","request_uuid":"4da9ca7f-1aca-44db-a3b2-00d82a3ad156"}
+127.0.0.1:11211 failed (count: 2)
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+127.0.0.1:11211 failed (count: 3)
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":4748.29,"view":922.79,"db":86.55,"params":{},"host":"www.mealok.vn","community_id":1,"current_user_id":"","request_uuid":"bbd3cb6f-67d0-448c-aa71-47c408a7bffb"}
+**WARNING** ReactOnRails: ReactOnRails gem and node package MAJOR versions do not match
+                     gem: 6.0.5
+            node package: 5.2.0
+Ensure the installed MAJOR version of the gem is the same as the MAJOR version of 
+your installed node package.
+127.0.0.1:11211 failed (count: 0)
+DalliError: No server available
+127.0.0.1:11211 failed (count: 1)
+127.0.0.1:11211 is down
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+DalliError: No server available
+{"method":"GET","path":"/","format":"html","controller":"homepage","action":"index","status":200,"duration":1948.57,"view":371.75,"db":25.88,"params":{},"host":"112.78.3.174","community_id":1,"current_user_id":"","request_uuid":"c3b4f70a-92bb-4e1d-b1d3-88c2b362f182"}
+**WARNING** ReactOnRails: ReactOnRails gem and node package MAJOR versions do not match
+                     gem: 6.0.5
+            node package: 5.2.0
+Ensure the installed MAJOR version of the gem is the same as the MAJOR version of 
+your installed node package.

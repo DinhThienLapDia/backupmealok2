@@ -1,0 +1,811 @@
+I, [2016-08-29T10:46:56.350190 #23112]  INFO -- : Refreshing Gem list
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/configuration/default_source.rb:675: warning: key :disable_mongo is duplicated and overwritten on line 987
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Person> at /home/namnp_hienle/workspace/sharetribe/app/models/person.rb:160)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:153)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:176)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:196)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:212)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:228)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:ListingImage> at /home/namnp_hienle/workspace/sharetribe/app/models/listing_image.rb:34)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Image> at /home/namnp_hienle/workspace/sharetribe/app/models/mercury/image.rb:20)
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/plans.rb:4: warning: already initialized constant PlanService::API::Plan
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/no_plans.rb:3: warning: previous definition of Plan was here
+I, [2016-08-29T10:47:10.904983 #23112]  INFO -- : listening on addr=/home/namnp_hienle/workspace/sharetribe/shared/sockets/unicorn.sock fd=12
+I, [2016-08-29T10:47:10.905143 #23112]  INFO -- : worker=0 spawning...
+I, [2016-08-29T10:47:10.914138 #23112]  INFO -- : worker=1 spawning...
+I, [2016-08-29T10:47:10.923213 #23112]  INFO -- : master process ready
+I, [2016-08-29T10:47:10.924721 #23126]  INFO -- : worker=0 spawned pid=23126
+I, [2016-08-29T10:47:10.925013 #23126]  INFO -- : worker=0 ready
+I, [2016-08-29T10:47:10.937920 #23128]  INFO -- : worker=1 spawned pid=23128
+I, [2016-08-29T10:47:10.938157 #23128]  INFO -- : worker=1 ready
+I, [2016-08-29T10:50:22.090342 #23112]  INFO -- : reaped #<Process::Status: pid 23126 exit 0> worker=0
+I, [2016-08-29T10:50:22.090509 #23112]  INFO -- : reaped #<Process::Status: pid 23128 exit 0> worker=1
+I, [2016-08-29T10:50:22.090602 #23112]  INFO -- : master complete
+I, [2016-08-29T10:53:46.982420 #26981]  INFO -- : Refreshing Gem list
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/configuration/default_source.rb:675: warning: key :disable_mongo is duplicated and overwritten on line 987
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Person> at /home/namnp_hienle/workspace/sharetribe/app/models/person.rb:160)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:153)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:176)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:196)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:212)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:228)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:ListingImage> at /home/namnp_hienle/workspace/sharetribe/app/models/listing_image.rb:34)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Image> at /home/namnp_hienle/workspace/sharetribe/app/models/mercury/image.rb:20)
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/plans.rb:4: warning: already initialized constant PlanService::API::Plan
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/no_plans.rb:3: warning: previous definition of Plan was here
+I, [2016-08-29T10:54:00.806055 #26981]  INFO -- : listening on addr=0.0.0.0:8787 fd=11
+I, [2016-08-29T10:54:00.806282 #26981]  INFO -- : unlinking existing socket=/home/namnp_hienle/workspace/sharetribe/shared/sockets/unicorn.sock
+I, [2016-08-29T10:54:00.806401 #26981]  INFO -- : listening on addr=/home/namnp_hienle/workspace/sharetribe/shared/sockets/unicorn.sock fd=12
+I, [2016-08-29T10:54:00.806519 #26981]  INFO -- : worker=0 spawning...
+I, [2016-08-29T10:54:00.814283 #26981]  INFO -- : worker=1 spawning...
+I, [2016-08-29T10:54:00.814939 #26997]  INFO -- : worker=0 spawned pid=26997
+I, [2016-08-29T10:54:00.815134 #26997]  INFO -- : worker=0 ready
+I, [2016-08-29T10:54:00.821653 #26981]  INFO -- : master process ready
+I, [2016-08-29T10:54:00.821829 #26981]  INFO -- : SIGWINCH ignored because we're not daemonized
+I, [2016-08-29T10:54:00.822536 #27000]  INFO -- : worker=1 spawned pid=27000
+I, [2016-08-29T10:54:00.822930 #27000]  INFO -- : worker=1 ready
+I, [2016-08-29T10:54:01.339652 #26981]  INFO -- : SIGWINCH ignored because we're not daemonized
+I, [2016-08-29T10:55:44.823222 #26981]  INFO -- : reaped #<Process::Status: pid 26997 exit 0> worker=0
+I, [2016-08-29T10:55:44.823431 #26981]  INFO -- : reaped #<Process::Status: pid 27000 exit 0> worker=1
+I, [2016-08-29T10:55:44.823574 #26981]  INFO -- : master complete
+I, [2016-09-15T23:49:26.292960 #1160]  INFO -- : Refreshing Gem list
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/configuration/default_source.rb:675: warning: key :disable_mongo is duplicated and overwritten on line 987
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Person> at /home/namnp_hienle/workspace/sharetribe/app/models/person.rb:160)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:153)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:176)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:196)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:212)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:228)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:ListingImage> at /home/namnp_hienle/workspace/sharetribe/app/models/listing_image.rb:34)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Image> at /home/namnp_hienle/workspace/sharetribe/app/models/mercury/image.rb:20)
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/plans.rb:4: warning: already initialized constant PlanService::API::Plan
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/no_plans.rb:3: warning: previous definition of Plan was here
+I, [2016-09-15T23:59:05.867626 #1160]  INFO -- : listening on addr=0.0.0.0:8787 fd=12
+I, [2016-09-15T23:59:06.207673 #1160]  INFO -- : unlinking existing socket=/home/namnp_hienle/workspace/sharetribe/shared/sockets/unicorn.sock
+I, [2016-09-15T23:59:06.273481 #1160]  INFO -- : listening on addr=/home/namnp_hienle/workspace/sharetribe/shared/sockets/unicorn.sock fd=13
+I, [2016-09-15T23:59:06.373784 #1160]  INFO -- : worker=0 spawning...
+I, [2016-09-15T23:59:06.557096 #1160]  INFO -- : worker=1 spawning...
+I, [2016-09-15T23:59:06.566588 #1160]  INFO -- : master process ready
+I, [2016-09-15T23:59:07.449824 #1637]  INFO -- : worker=0 spawned pid=1637
+I, [2016-09-15T23:59:07.450283 #1640]  INFO -- : worker=1 spawned pid=1640
+I, [2016-09-15T23:59:07.453552 #1640]  INFO -- : worker=1 ready
+I, [2016-09-15T23:59:07.453551 #1637]  INFO -- : worker=0 ready
+D, [2016-09-16T00:17:18.265195 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T00:18:05.083186 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T00:44:08.398245 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T00:46:40.717219 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T01:12:19.846645 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T01:14:41.117486 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T01:18:14.681300 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/vm/mri_vm.rb:32: warning: GC.stat keys were changed from Ruby 2.1. In this case, you refer to obsolete `total_allocated_object' (new key is `total_allocated_objects'). Please check <https://bugs.ruby-lang.org/issues/9924> for more information.
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/vm/mri_vm.rb:32: warning: GC.stat keys were changed from Ruby 2.1. In this case, you refer to obsolete `total_allocated_object' (new key is `total_allocated_objects'). Please check <https://bugs.ruby-lang.org/issues/9924> for more information.
+D, [2016-09-16T02:20:50.453622 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:23:26.709351 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:26:02.165347 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:27:22.976383 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:29:59.276892 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:32:52.112542 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:34:27.013340 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:37:25.416868 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:40:06.011663 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:40:59.360102 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:42:13.276721 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:45:22.317712 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:50:44.401433 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:54:07.207565 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:56:12.243884 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:57:21.836580 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T02:58:27.854850 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:04:19.081667 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:08:05.212543 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:10:32.125261 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:12:57.977630 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:17:17.894468 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:18:08.865576 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:19:50.256704 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:21:28.273546 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:22:15.825739 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:23:25.252740 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:27:50.478197 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:30:06.873868 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-16T03:31:59.057468 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-09-30T14:22:03.712557 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-03T03:41:30.133535 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-03T10:10:04.803642 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-05T05:53:35.272889 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-05T20:40:24.156624 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-06T02:00:26.774252 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-06T10:28:07.691771 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-06T11:26:50.116806 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-06T11:29:06.097471 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-06T20:23:20.223407 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+E, [2016-10-08T15:37:54.989645 #1160] ERROR -- : worker=1 PID:1640 timeout (31s > 30s), killing
+E, [2016-10-08T15:37:55.105913 #1160] ERROR -- : reaped #<Process::Status: pid 1640 SIGKILL (signal 9)> worker=1
+I, [2016-10-08T15:37:55.106159 #1160]  INFO -- : worker=1 spawning...
+I, [2016-10-08T15:37:55.173957 #10324]  INFO -- : worker=1 spawned pid=10324
+I, [2016-10-08T15:37:55.174209 #10324]  INFO -- : worker=1 ready
+D, [2016-10-10T09:23:01.969753 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-10T09:36:03.255275 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:26:03.194509 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:30:47.050573 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:32:24.057191 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:33:57.787465 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:35:27.011595 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:37:05.927487 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:38:49.595049 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:40:38.538238 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:42:38.397635 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:44:27.311193 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:46:24.159293 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:48:23.934436 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:49:47.294233 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:51:57.470513 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:54:07.939583 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:56:03.006645 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T04:58:16.766694 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:00:43.072479 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:02:45.083498 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:04:48.438634 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:07:11.664241 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:09:37.205530 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:12:06.806542 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:14:30.438542 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:17:12.434309 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:19:45.490713 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:22:12.658539 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:24:27.772335 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:26:51.731432 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:29:09.084656 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:31:10.806743 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:33:17.878379 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:35:20.827453 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:37:25.978402 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:39:44.445558 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:42:00.346388 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:44:13.785558 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:46:29.989945 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:48:48.808313 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:51:22.896547 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:53:42.018602 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:55:56.769554 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T05:58:14.489251 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:00:33.414586 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:02:57.302633 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:05:25.831482 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:07:35.762623 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:09:26.396667 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:11:48.657269 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:14:02.803452 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:16:04.645455 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:18:05.411556 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:20:03.934447 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:21:55.077726 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:23:55.263475 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:25:56.507275 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:27:58.289688 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:29:55.194598 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:31:58.700580 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:34:00.445315 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:35:51.309561 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:38:03.672639 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:40:12.154550 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:41:54.221606 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:43:47.419823 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:45:41.701255 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:47:33.981620 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:49:19.525428 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:51:20.567546 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:53:22.775460 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:55:20.149894 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:57:27.634418 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T06:59:31.613649 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:01:27.635510 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:03:50.421318 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:06:06.772672 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:08:43.715492 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:11:00.950488 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:13:36.997390 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:15:34.389898 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:17:51.548494 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:20:05.994451 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:22:01.374414 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:24:03.185319 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:26:24.621646 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:28:36.469274 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:30:44.041275 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:32:48.124447 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:34:56.638315 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:37:18.873428 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:39:31.995350 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:42:07.171572 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:44:20.425410 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:46:12.977385 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:48:15.849780 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:50:18.606643 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:52:42.762474 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:54:57.718552 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:57:09.699558 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T07:59:16.551537 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:01:33.649213 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:03:36.931479 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:05:47.905715 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:06:07.504513 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:07:20.615645 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:09:01.827491 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:10:38.935442 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:12:17.528447 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:13:49.393600 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:15:34.513615 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:17:29.777751 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:19:18.146411 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:21:08.055423 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:23:06.826429 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:25:15.108570 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-13T08:26:25.952001 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T09:13:23.985674 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T09:57:30.212540 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T09:58:56.714630 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:00:09.301686 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:01:14.358210 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:02:34.415382 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:03:53.365445 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:05:21.674435 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:07:16.408420 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:09:26.566422 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:11:13.363596 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:13:12.021424 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:15:19.650419 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:17:33.947623 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:19:39.222479 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:22:05.375661 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:24:16.040421 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:26:35.467368 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:28:58.503376 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:31:25.550398 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:33:58.226471 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:36:55.220675 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:39:01.085478 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:40:22.393537 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:41:49.495587 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-14T10:42:29.672709 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-10-28T08:15:18.135493 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:18:29.055285 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:21:11.035180 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:23:23.386257 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:24:13.805313 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:25:16.299393 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:26:15.996571 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:27:31.004636 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:28:40.902733 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:29:41.755285 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:30:57.575579 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:32:15.895649 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:33:22.717871 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:34:18.020772 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:35:24.615849 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:36:15.348485 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:37:01.251617 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:37:48.426634 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:38:48.213499 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:40:06.038360 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:41:26.642215 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:42:57.125514 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:43:57.915396 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:45:10.610410 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:46:13.583335 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:47:09.760253 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:47:56.078410 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:49:00.881439 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:49:49.986203 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:50:49.423258 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:51:58.629446 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:53:14.854490 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:54:10.818682 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:55:21.454534 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:56:08.498614 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:56:40.775713 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:57:44.434671 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:58:43.805624 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T19:59:47.132320 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:00:51.718689 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:01:47.550296 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:02:41.982534 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:03:29.748543 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:04:24.888565 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:05:48.560688 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:06:57.064231 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:07:58.201653 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:09:12.553442 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:10:07.388695 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:11:07.402677 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:12:08.271615 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:13:04.800529 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:13:54.349596 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:15:06.377736 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:15:54.627556 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:16:53.203521 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:17:56.418285 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:18:59.675459 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:19:56.850486 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:20:38.243474 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:21:51.629703 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:23:22.561569 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:24:39.470658 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:25:57.742895 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:27:08.606674 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:28:19.453391 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:29:28.653786 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:30:36.330473 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:31:09.435660 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:32:04.388301 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:32:25.732410 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:33:45.267591 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:34:36.312668 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:35:39.421503 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:48:54.175661 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:51:49.401425 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:52:36.130659 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T20:54:42.025063 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:00:39.638678 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:02:22.014560 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:03:48.558640 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:05:21.170452 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:06:57.929378 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:08:47.341475 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:10:23.970761 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:11:57.370515 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:13:44.193549 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:15:37.413504 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:17:29.588649 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:19:20.223403 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:21:18.631783 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:23:15.582750 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:24:56.256657 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:26:49.988251 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:28:46.925682 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:30:59.999646 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:33:16.584622 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:35:19.070220 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:37:34.105276 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:39:46.058673 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:41:55.185548 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:44:19.556368 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:46:24.336537 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:48:53.241720 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:51:24.669452 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:53:23.271424 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:55:36.940504 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T21:57:50.395612 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:00:04.429473 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:01:59.260425 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:04:15.500606 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:06:04.487503 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:06:50.577489 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:07:38.697414 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:08:05.707612 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:09:55.995458 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:10:29.355561 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:11:03.670822 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:13:39.603396 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:14:56.455661 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:16:57.577347 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:18:06.873038 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:18:46.770742 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:19:36.741656 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:20:19.791981 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:20:56.567560 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:21:41.809461 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:22:39.193433 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:24:27.477399 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:26:22.452587 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:28:30.872346 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:30:29.402428 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:32:24.243305 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:34:44.744371 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:36:50.730193 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:38:37.877635 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:40:37.361323 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:42:15.184546 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:43:58.935330 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:45:47.982550 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:47:52.792490 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:50:10.010651 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:52:08.735467 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:54:16.847498 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:56:33.192404 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T22:58:35.109208 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:00:54.976444 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:03:15.032411 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:05:42.945447 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:06:29.603503 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:08:11.026295 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:09:56.720670 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:11:12.158672 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:12:48.293504 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:14:37.947625 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:16:42.446607 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:18:57.759420 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:21:10.352347 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:23:05.577318 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:25:36.048438 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:28:05.943267 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:30:19.759470 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:32:29.652472 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:34:33.953553 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:36:18.435412 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:39:16.045584 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:41:57.883675 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:44:17.329191 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:46:30.239556 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:48:54.923656 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:51:24.213420 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:53:46.547528 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:56:31.263278 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-03T23:59:02.713651 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:02:49.100673 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:05:12.793619 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:06:26.386462 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:08:34.219171 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:11:00.956486 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:13:33.238513 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:16:33.407561 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:19:25.195593 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:22:02.996485 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:24:34.785443 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:26:58.959456 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:29:33.928419 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:31:54.773431 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:34:36.049546 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:37:10.718589 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:40:16.900573 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:42:42.203403 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:45:33.586500 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:48:35.704427 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:51:13.484524 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:54:09.275369 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:56:41.491554 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T00:59:19.603549 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:01:29.250427 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:01:57.984580 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:03:34.686666 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:05:27.497440 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:06:49.738439 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:08:26.633446 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:10:25.498435 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:12:41.998609 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:14:42.987915 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:16:44.724575 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:18:25.393563 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:20:39.851638 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:21:44.698720 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:23:57.282655 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:25:19.253703 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:26:14.224763 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:27:07.277661 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:28:11.717513 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:29:06.877363 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+E, [2016-11-04T01:30:18.137321 #1160] ERROR -- : worker=0 PID:1637 timeout (34s > 30s), killing
+E, [2016-11-04T01:30:19.479646 #1160] ERROR -- : reaped #<Process::Status: pid 1637 SIGKILL (signal 9)> worker=0
+I, [2016-11-04T01:30:19.714528 #1160]  INFO -- : worker=0 spawning...
+I, [2016-11-04T01:30:25.383565 #27551]  INFO -- : worker=0 spawned pid=27551
+I, [2016-11-04T01:30:25.398711 #27551]  INFO -- : worker=0 ready
+D, [2016-11-04T01:30:51.373454 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:32:28.935974 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:33:19.801547 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:34:11.787466 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:35:18.496422 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:38:38.289702 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:39:27.265465 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:41:11.246628 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:42:54.240508 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:44:08.269267 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:45:04.207373 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:45:57.173570 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:47:05.017247 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:47:51.546440 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:48:39.488558 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:50:39.465564 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:52:16.539452 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:53:10.114553 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:54:19.168586 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:56:20.184498 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:57:44.204407 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T01:58:34.104533 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:00:11.608644 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:02:14.532493 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:05:56.153258 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:06:44.435463 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:07:33.802558 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:12:13.291416 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:14:20.079448 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:18:48.206544 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:20:42.249557 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:22:17.200538 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:23:08.058330 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:23:57.462547 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:25:05.284419 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:27:32.825773 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:28:21.868482 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:32:16.527768 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:35:08.824633 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:37:20.247426 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:38:38.806785 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:54:18.676610 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:55:07.442779 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:56:18.881534 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:57:06.942546 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T02:59:12.748437 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:00:05.959238 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:01:10.326611 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:02:35.779443 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:05:48.896540 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:07:07.683668 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:14:14.117234 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:14:44.749829 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:15:35.388622 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:18:45.875446 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:22:04.707224 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:24:39.891563 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:27:06.480273 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:29:42.798525 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:32:51.977442 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T03:42:38.359698 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:14:42.832432 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:17:00.918525 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:21:53.927414 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:32:38.665421 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:33:26.442482 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:34:31.691551 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:50:48.847420 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:51:54.862626 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:53:00.118442 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:54:40.793480 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:56:33.280529 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:58:05.961599 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T04:59:39.301291 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T05:01:13.228421 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T05:02:03.190607 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T05:03:39.680659 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T05:19:44.838584 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T05:26:07.560544 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T05:37:40.638670 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T05:47:53.407451 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:01:12.867523 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:09:55.915344 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:11:35.517990 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:14:13.679556 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:15:02.505438 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:18:37.223471 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:20:45.875510 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:21:38.678447 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:25:35.173502 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:28:45.652440 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:33:04.762434 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:33:51.803648 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:36:14.224649 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:37:48.965504 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:38:59.028311 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:41:39.440534 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:44:35.087595 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:47:53.870445 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:48:42.948318 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:52:38.275475 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:54:10.489724 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T06:55:17.254369 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:02:33.124602 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:04:07.530221 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:10:08.614442 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:12:58.862528 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:14:06.498430 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:17:36.465367 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:20:06.014403 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:25:03.861574 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:25:51.496475 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:27:40.039506 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:28:59.120482 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:32:58.725757 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:37:14.874547 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:40:11.404465 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:41:03.220764 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:42:40.776535 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:52:37.555339 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:57:02.675372 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T07:58:37.767635 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:00:39.727716 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:04:04.214475 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:19:49.784717 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:20:41.120390 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:22:13.490519 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:23:03.219593 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:23:50.508709 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:30:39.911537 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:31:26.856745 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:33:37.439489 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:36:58.362725 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:37:46.571605 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:42:35.669394 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:45:04.567468 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:49:11.987265 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T08:56:46.123515 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:13:34.725058 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:17:44.204340 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:18:31.417726 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:23:00.028510 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:24:08.613681 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:24:51.548503 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:25:28.447569 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:26:06.363041 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:26:51.398454 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:27:44.422518 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:29:36.178883 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:31:33.997263 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:33:41.137736 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:35:22.487546 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:37:21.788304 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:39:17.464430 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:41:16.530550 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:43:30.469417 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:45:24.705442 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:47:38.222460 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:49:50.186520 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:52:18.019534 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:54:33.189558 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:57:17.737612 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T09:59:25.581245 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:01:35.783321 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:03:36.372582 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:06:05.256540 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:07:17.897239 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:08:14.413661 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:11:11.354848 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:12:44.087287 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:14:14.416438 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:15:34.328678 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:17:15.026660 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:19:20.892432 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:21:32.708422 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:23:31.357443 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:25:48.886728 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:28:23.835581 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:30:05.517413 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:32:19.035478 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:34:18.599223 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:36:27.749492 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:38:55.745266 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:41:35.732379 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:43:45.461654 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:45:54.127660 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:47:46.790679 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:49:56.347737 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:52:18.998213 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:54:29.514425 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:56:40.168731 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T10:59:11.566529 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:01:30.937537 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:03:57.937482 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:06:25.684435 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:07:55.090732 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:09:02.340185 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:09:44.320043 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:10:51.664411 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:12:55.813553 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:15:02.273675 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:16:56.937498 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:18:56.118670 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:21:08.192443 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:23:11.808617 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:25:35.017366 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:27:57.145308 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:30:13.774398 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:32:06.018676 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:34:18.221408 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:36:26.914718 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:38:53.818436 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:41:34.440440 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:43:59.798449 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:46:18.156516 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:48:56.600438 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:51:14.188507 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:53:58.393785 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:56:29.749441 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T11:58:50.827427 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:02:08.989535 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:04:37.369417 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:07:02.708532 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:09:38.899552 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:12:07.872311 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:14:45.888547 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:17:17.406448 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:20:05.157344 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:22:35.500390 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:25:24.473032 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:28:43.915665 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:31:55.059256 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:34:37.808452 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:37:21.430639 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:40:00.217444 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:42:51.411491 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:45:18.407644 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:48:00.719409 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:51:23.642526 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:54:12.078412 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:57:02.251525 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T12:59:47.227868 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:02:43.256617 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:05:32.931821 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:08:24.935304 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:10:42.777646 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:13:13.390203 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:15:52.333529 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:18:34.616467 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:21:28.659423 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:24:05.526294 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:26:48.092298 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:29:23.624173 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:32:04.417256 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:34:20.926325 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:36:37.409288 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:39:15.007548 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:41:45.396643 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:44:08.003318 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:46:35.047305 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:49:22.757358 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:51:43.590210 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:54:26.906503 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:57:06.559614 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T13:59:17.996440 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T14:01:56.105444 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T14:05:32.118296 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T14:08:20.058306 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T14:10:56.921616 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T14:14:05.644109 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T14:16:48.762216 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T14:19:26.179332 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T14:22:07.107498 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T14:24:47.005362 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2016-11-04T14:27:34.281450 #1160] DEBUG -- : waiting 16.0s after suspend/hibernation
+I, [2016-11-04T14:30:03.383463 #921]  INFO -- : Refreshing Gem list
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/configuration/default_source.rb:675: warning: key :disable_mongo is duplicated and overwritten on line 987
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Person> at /home/namnp_hienle/workspace/sharetribe/app/models/person.rb:160)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:153)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:176)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:196)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:212)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:228)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:ListingImage> at /home/namnp_hienle/workspace/sharetribe/app/models/listing_image.rb:34)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Image> at /home/namnp_hienle/workspace/sharetribe/app/models/mercury/image.rb:20)
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/plans.rb:4: warning: already initialized constant PlanService::API::Plan
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/no_plans.rb:3: warning: previous definition of Plan was here
+I, [2016-11-04T14:31:05.154636 #921]  INFO -- : listening on addr=0.0.0.0:8787 fd=12
+I, [2016-11-04T14:31:05.175210 #921]  INFO -- : unlinking existing socket=/home/namnp_hienle/workspace/sharetribe/shared/sockets/unicorn.sock
+I, [2016-11-04T14:31:05.175395 #921]  INFO -- : listening on addr=/home/namnp_hienle/workspace/sharetribe/shared/sockets/unicorn.sock fd=13
+I, [2016-11-04T14:31:05.175529 #921]  INFO -- : worker=0 spawning...
+I, [2016-11-04T14:31:05.180009 #921]  INFO -- : worker=1 spawning...
+I, [2016-11-04T14:31:05.180519 #1354]  INFO -- : worker=0 spawned pid=1354
+I, [2016-11-04T14:31:05.180684 #1354]  INFO -- : worker=0 ready
+I, [2016-11-04T14:31:05.183614 #921]  INFO -- : master process ready
+I, [2016-11-04T14:31:05.184142 #1357]  INFO -- : worker=1 spawned pid=1357
+I, [2016-11-04T14:31:05.184303 #1357]  INFO -- : worker=1 ready
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/vm/mri_vm.rb:32: warning: GC.stat keys were changed from Ruby 2.1. In this case, you refer to obsolete `total_allocated_object' (new key is `total_allocated_objects'). Please check <https://bugs.ruby-lang.org/issues/9924> for more information.
+I, [2016-11-16T09:12:21.618002 #987]  INFO -- : Refreshing Gem list
+/home/namnp_hienle/.rvm/gems/ruby-2.3.1/gems/newrelic_rpm-3.9.1.236/lib/new_relic/agent/configuration/default_source.rb:675: warning: key :disable_mongo is duplicated and overwritten on line 987
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Person> at /home/namnp_hienle/workspace/sharetribe/app/models/person.rb:160)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:153)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:176)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:196)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:212)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Community> at /home/namnp_hienle/workspace/sharetribe/app/models/community.rb:228)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:ListingImage> at /home/namnp_hienle/workspace/sharetribe/app/models/listing_image.rb:34)
+DEPRECATION WARNING: [paperclip] [deprecation] AWS SDK v1 has been deprecated in paperclip 5. Please consider upgrading to AWS 2 before upgrading paperclip. (called from <class:Image> at /home/namnp_hienle/workspace/sharetribe/app/models/mercury/image.rb:20)
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/plans.rb:4: warning: already initialized constant PlanService::API::Plan
+/home/namnp_hienle/workspace/sharetribe/app/services/plan_service/api/no_plans.rb:3: warning: previous definition of Plan was here
+I, [2016-11-16T09:12:59.738064 #987]  INFO -- : listening on addr=0.0.0.0:8787 fd=12
+I, [2016-11-16T09:12:59.744041 #987]  INFO -- : unlinking existing socket=/home/namnp_hienle/workspace/sharetribe/shared/sockets/unicorn.sock
+I, [2016-11-16T09:12:59.744195 #987]  INFO -- : listening on addr=/home/namnp_hienle/workspace/sharetribe/shared/sockets/unicorn.sock fd=13
+I, [2016-11-16T09:12:59.744322 #987]  INFO -- : worker=0 spawning...
+I, [2016-11-16T09:12:59.748923 #987]  INFO -- : worker=1 spawning...
+I, [2016-11-16T09:12:59.749449 #994]  INFO -- : worker=0 spawned pid=994
+I, [2016-11-16T09:12:59.749612 #994]  INFO -- : worker=0 ready
+I, [2016-11-16T09:12:59.752517 #987]  INFO -- : master process ready
+I, [2016-11-16T09:12:59.753357 #997]  INFO -- : worker=1 spawned pid=997
+I, [2016-11-16T09:12:59.753539 #997]  INFO -- : worker=1 ready
